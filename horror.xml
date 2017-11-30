@@ -103,6 +103,22 @@
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5e/Summer_Of_Sam_%28movie%29.jpg</thumbnail>
         <fanart>https://i.ytimg.com/vi/l292Un1o7ZM/maxresdefault.jpg</fanart>
         
+       <item>
+        <title>Zodiac (2007)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0443706</imdb>
+                <title>Zodiac</title>
+                <year>2007</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://wonderfulcinema.files.wordpress.com/2014/02/2007-zodiac-movie-film-cinema-poster-art-e1393609148857.jpg</thumbnail>
+        <fanart>https://jordanandeddie.files.wordpress.com/2015/11/zodiac-feature.jpg?w=1200</fanart>
+</item> 
+        
         
 
 
