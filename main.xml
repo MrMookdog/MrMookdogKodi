@@ -16,70 +16,11 @@
 <thumbnail></thumbnail>
 </plugin>
 
+<dir>
+    <title>Documentaries and interviews</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror.xml</link>
+  </dir>
 
-
-<plugin>
-<title>Mookdog's Top Serial Killers (Updated every couple days)</title>
-<link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJE9c6SVgUSU9fpQbU8MTdPu/</link>
-<thumbnail>https://i.pinimg.com/originals/3b/60/16/3b6016c946d9d49101e92b065c8ca957.jpg</thumbnail>
-</plugin>
-
-
-<plugin>
-<title>Pure Evil</title>
-<link>plugin://plugin.video.youtube/playlist/PL3ax89pBVfdvuR0nmfE8Q3yIDGBiWSKir/</link>
-<thumbnail>https://i.pinimg.com/736x/ca/92/1d/ca921ddef0987e9744cccd4acf504820--john-wayne-gacy-crawl-spaces.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>Psychopaths</title>
-<link>plugin://plugin.video.youtube/playlist/PLvQ9zpL9arDylTPwOVygvegBCGqOltidW/</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/87/Ted_Bundy_mug_shot.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>Serial Killers from around the world</title>
-<link>plugin://plugin.video.youtube/playlist/PLO3cGXjMK5XgKu2FOcTgckGAKUqwdTxSN/</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/51/Jeffrey-dahmer.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>Deranged Killers</title>
-<link>plugin://plugin.video.youtube/playlist/PLvQ9zpL9arDzJ1M-ZazBHjS-f1y90T2W8/</link>
-<thumbnail>https://i.ytimg.com/vi/u5KHTBzZou4/hqdefault.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>Born to kill</title>
-<link>plugin://plugin.video.youtube/playlist/PLC1ZulefSCZCI6jZzQjDS2QaPPmav72IB/</link>
-<thumbnail>https://pbs.twimg.com/profile_images/810014199053107201/BI3meMDm.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>Religious Cults</title>
-<link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJFn5Z7WLpBqVgeoVTlHq_zp/</link>
-<thumbnail>https://dallasnews.imgix.net/1490987557-Jonestown-Remains.jpg?w=724&h=500&auto=format&q=60&fit=clip</thumbnail>
-</plugin>
-
-<plugin>
-<title>Bat shit crazy</title>
-<link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJHlSqeZlBG3SDPqnbAUHffw/</link>
-<thumbnail>https://www.biography.com/.image/t_share/MTE5NTU2MzE2MzA4MTQ1Njc1/charles-manson-9397912-2-402.jpg</thumbnail>
-</plugin>
-
-<plugin>
-<title>Crime Documentaries</title>
-<link>plugin://plugin.video.youtube/channel/UCXoAIK_PKpDBx1o8FT2EsDg/playlists/</link>
-<thumbnail>https://yt3.ggpht.com/-zn_hwbVJ2V8/AAAAAAAAAAI/AAAAAAAAAAA/50WSSKzkF3o/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-</plugin>
-
-
-
-<plugin>
-<title>Horror movies the inside story</title>
-<link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJE16B-dHI2PeJBmQ7tBSwFP/</link>
-<thumbnail>http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2017/04/86661212-6c04-42a0-9d73-48f83cd36211_zpsd80d1af1.jpg</thumbnail>
-</plugin>
 
 <dir>
     <title>Sick ass movies</title>
