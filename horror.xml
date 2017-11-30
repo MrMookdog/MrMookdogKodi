@@ -61,10 +61,19 @@
 </item>
 
 <item>
-<title>Student Bodies</title>
-<link>http://x264.video/student-bodies-1981_427bb2aad.html</link>
-<thumbnail>https://www.worldwidehippies.com/wp-content/uploads/2012/11/ap_glen_rogers_dm_121120_wg.jpeg</thumbnail>
-</item>
+        <title>Student Bodies (1981)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0083133</imdb>
+                <title><Student Bodies/title>
+                <year>1981</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 
 <item>
 <title>Faces of Death</title>
