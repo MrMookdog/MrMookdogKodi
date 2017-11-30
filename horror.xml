@@ -152,6 +152,22 @@
         <thumbnail>https://i.ytimg.com/vi/c8iP9vv-i9k/movieposter.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w1280/qLoTj2r2dyubmSpPmmyLvllqnGj.jpg</fanart>
 </item>
+
+<item>
+        <title>The Night Stalker (2016)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1821657</imdb>
+                <title>The Night Stalker</title>
+                <year>2016</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>http://i.imgur.com/U8qTuRM.jpg</thumbnail>
+        <fanart>http://press.siff.net/SIFF%202016/SIFF%202016%20Materials/Night%20Stalker,%20The/NightStalker_Still02.jpg</fanart>
+</item>
         
 
 
