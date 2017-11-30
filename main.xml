@@ -69,5 +69,5 @@
 
 <dir>
     <title>Sick ass movies</title>
-    <link>file://horror.xml</link>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror.xml</link>
   </dir>
