@@ -11,7 +11,7 @@
 </plugin>
 
 <plugin>
-<title>Make sure you have the YOUTUBE addon installed and you are logged in</title>
+<title>"[COLOR red]Make sure you have the YOUTUBE addon installed and you are logged in[/COLOR]</title>
 <link></link>
 <thumbnail></thumbnail>
 </plugin>
@@ -23,6 +23,6 @@
 
 
 <dir>
-    <title>Killer Movies</title>
+    <title>[COLOR red]Killer Movies[/COLOR]</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror.xml</link>
   </dir>
