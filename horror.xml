@@ -200,6 +200,23 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/qUJZFNkWmNUxWpJBPVvoUsp5Sx8.jpg</thumbnail>
         <fanart>https://pic.yts.gs/yt/20160511/28932/screenshot3.png></fanart>
 </item>
+
+<item>
+        <title>Student Bodies (1981)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0083133</imdb>
+                <title>Student Bodies</title>
+                <year>1981</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://i.ytimg.com/vi/XI0HM3Cvmzk/movieposter.jpg</thumbnail>
+        <fanart>https://i.ytimg.com/vi/XI0HM3Cvmzk/maxresdefault.jpg</fanart>
+</item>
+
         
 
 
