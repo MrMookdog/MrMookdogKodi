@@ -37,8 +37,8 @@
  <tmdb>keyword/shows/10714</tmdb>
 </dir>
 
-<title>Pure Horror Movies (Random Horror Movies)</title>
- <tmdb>keyword/shows/27</tmdb>
+<dir>
+  <title>Pure Horror (Random Horror Movies)</title>
+  <tmdb>genre/movies/27</tmdb>
 </dir>
-
 
