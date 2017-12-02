@@ -308,6 +308,28 @@
         <fanart>https://i.ytimg.com/vi/9tBYHLkXDIc/maxresdefault.jpg</fanart>
 </item>
 
+<item>
+        <titleThe Silence of the Lambs (1991)></title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0102926</imdb>
+                <title>The Silence of the Lambs</title>
+                <year>1991</year>
+               
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/qjAyTj2BSth1EQ89vNfo0JYVPFN.jpg</thumbnail>
+        <fanart>https://fathersonholygore.files.wordpress.com/2015/08/b6d5365049204c2c686180aeec368206.jpg</fanart>
+</item>
+
+
+
+
+
 <dir>
     <title>Texas Chainsaw Collection</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/Texas.xml</link>
