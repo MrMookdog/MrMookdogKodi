@@ -42,3 +42,14 @@
   <tmdb>genre/movies/27</tmdb>
 </dir>
 
+<dir>
+  <title>Serial Killer Search (Trakt)</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+  <title>Serial Killer Search (tmdb)</title>
+  <tmdb>search</tmdb>
+</dir>
+
+
