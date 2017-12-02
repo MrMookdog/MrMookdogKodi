@@ -164,6 +164,24 @@
 </item>
 
 <item>
+        <title>The Shining (1980)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0081505</imdb>
+                <title>The Shining</title>
+                <year>1980</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/9fgh3Ns1iRzlQNYuJyK0ARQZU7w.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/h4DcDCOkQBENWBJZjNlPv3adQfM.jpg</fanart>
+</item>
+
+<item>
         <title>Patrick (1978)</title>
         <meta>
                 <content>movie</content>
