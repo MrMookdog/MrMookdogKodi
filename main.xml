@@ -28,6 +28,14 @@
   </dir>
 
 <dir>
+<title></title>
+<tmdb>Horror collection/</tmdb>
+
+<thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original</fanart>
+</dir>
+
+<dir>
  <title>Pure Serial killer Movies (Random Movies)</title>
  <tmdb>keyword/movies/10714</tmdb>
 </dir>
