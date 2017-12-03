@@ -30,7 +30,7 @@
 <dir>
 <title></title>
 <tmdb>Horror collection/</tmdb>
-
+ <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horrorcollection.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/w1280</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original</fanart>
 </dir>
