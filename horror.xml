@@ -221,6 +221,22 @@
 </item>
 
 <item>
+        <title>Maniac (1980)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0081114</imdb>
+                <title>Maniac</title>
+                <year>1980</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/xkzIt15OIA3YxQB0MygZu4TVhkF.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rIOO0779JmHvJpzESnWkiqu3qf8.jpg</fanart>
+</item>
+
+<item>
         <title>Honest Man: The Life of R. Budd Dwyer</title>
         <meta>
                 <content>movie</content>
