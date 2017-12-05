@@ -97,6 +97,22 @@
         </link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5e/Summer_Of_Sam_%28movie%29.jpg</thumbnail>
         <fanart>https://i.ytimg.com/vi/l292Un1o7ZM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+        <title>Class of 1984 (1982)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0083739</imdb>
+                <title>Class of 1984</title>
+                <year>1982</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/whDnqSYg4yYgVzbVhLSjzC5piUR.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wgHNDhkdNA1T3ic7CmfqwcSuoc5.jpg</fanart>
 </item> 
        
 
