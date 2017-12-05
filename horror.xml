@@ -237,6 +237,23 @@
 </item>
 
 <item>
+        <title>The Toolbox Murders (1978)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0078405</imdb>
+                <title>The Toolbox Murders</title>
+                <year>1978</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/jJBSCfaczHU6SdO9x60JALFsrtD.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mZgBWUZruCRzJJn5ZAf86Ufe754.jpg</fanart>
+</item>
+
+
+<item>
         <title>Honest Man: The Life of R. Budd Dwyer</title>
         <meta>
                 <content>movie</content>
