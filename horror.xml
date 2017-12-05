@@ -511,6 +511,24 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/vvczK8p5kNMbzgFs0Sm4hHjwgAR.jpg</fanart>
 </item>
 
+<item>
+        <title>Black Christmas (1974)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0071222</imdb>
+                <title>Black Christmas</title>
+                <year>1974</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zfs9QuKkZL6ZCluGvjo5Pk49aMv.jpg</fanart>
+</item>
+
 
 
 
