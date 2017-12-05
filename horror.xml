@@ -455,6 +455,7 @@
 </item>
 
 <item>
+     
         <title>Albert Fish: In Sin He Found Salvation (2007)</title>
         <meta>
                 <content>movie</content>
@@ -470,10 +471,12 @@
         
         <thumbnail>https://image.tmdb.org/t/p/w640/oXiJWG5CZUuwQm1jSWuZkoqSE46.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nUoaz4kabzZMOLSz1tNPO6gKdb0.jpg</fanart>
-</item>
+        
+        </item>
 
-                 <title>The Birds (1963)</title>
-         <meta>
+<item>
+        <title>The Birds (1963)</title>
+        <meta>
                 <content>movie</content>
                 <imdb>tt0056869</imdb>
                 <title>The Birds</title>
@@ -486,5 +489,5 @@
         </link>
         
         <thumbnail>https://image.tmdb.org/t/p/w640/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6TlMTnjtBcXFq7rSCcdQoBjTNPd.jpg</fanart>
+        <fanart>https://image.tmdb.org/t/p/original/pJeZuCefvEVnOJJ2ZROQLTMoq26.jpg</fanart>
 </item>
