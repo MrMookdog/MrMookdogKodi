@@ -465,6 +465,23 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nUoaz4kabzZMOLSz1tNPO6gKdb0.jpg</fanart>
 </item>
 
+                 <title>The Birds (1963)</title>
+         <meta>
+                <content>movie</content>
+                <imdb>tt0056869</imdb>
+                <title>The Birds</title>
+                <year>1963</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6TlMTnjtBcXFq7rSCcdQoBjTNPd.jpg</fanart>
+</item>
+
 
 
 
