@@ -90,6 +90,25 @@
 </item>
 
 <item>
+        <title>Ryde (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5339418</imdb>
+                <title>Ryde</title>
+                <year>2917</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rMtxdxpt2f7HkWmYqR5jgDfE8Mb.jpg</fanart>
+</item>
+
+
+<item>
         <title>Leatherface: Texas Chainsaw Massacre III (1990)</title>
         <meta>
                 <content>movie</content>
