@@ -5,13 +5,13 @@
 #######################################################
 
 <plugin>
-<title>[COLORred]Welcome to Mookdog's Kodi addon Serial Killers Hope you enjoy it[/COLOR]</title>
+<title>Welcome to Mookdog's Kodi addon Serial Killers Hope you enjoy it</title>
 <link></link>
 <thumbnail></thumbnail>
 </plugin>
 
 <plugin>
-<title>"[COLOR teal]Make sure you have the YOUTUBE addon installed and you are logged in[/COLOR]</title>
+<title>Make sure you have the YOUTUBE addon installed and you are logged in</title>
 <link></link>
 <thumbnail></thumbnail>
 </plugin>
@@ -28,7 +28,7 @@
 
 
 <dir>
-    <title>[COLOR red]Killer Movies[/COLOR]</title>
+    <title>Killer Movies</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror.xml</link>
   </dir>
 
