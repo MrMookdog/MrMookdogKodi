@@ -107,6 +107,58 @@
 
 
 <item>
+        <title>Maximum Overdrive (1986)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0091499</imdb>
+                <title>Maximum Overdrive</title>
+                <year>1986</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/lgNXAQ1TlKEKzssbjcc5iEhs8mi.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/j9ROmwHHL3SlZOBgdHAQGeFtWXd.jpg</fanart>
+</item>
+
+<item>
+        <title>The Thing (1982)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0084787</imdb>
+                <title>The Thing</title>
+                <year>1982</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/pdnhpZ2f2vQp9F00dTZSCdWNIUQ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hnxieS9l0aWUTOHmNNj4cVoyj52.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Christine (1983)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0085333</imdb>
+                <title>Christine</title>
+                <year>1983</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/eIFakrk7xLwiNNoiottTBN5EIwy.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zvR7GPQSoJTZlwuU5jjZHRiMu2o.jpg</fanart>
+</item>
+
+
+
+
+<item>
         <title>Mother's Day (1980)</title>
         <meta>
                 <content>movie</content>
