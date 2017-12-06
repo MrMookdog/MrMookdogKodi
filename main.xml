@@ -7,13 +7,14 @@
 <plugin>
 <title>Welcome to Mookdog's Kodi addon Serial Killers Hope you enjoy it</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://mookdog.tech/icon.png</thumbnail>
+</dir>
 </plugin>
 
 <plugin>
 <title>Make sure you have the YOUTUBE addon installed and you are logged in</title>
 <link></link>
-<thumbnail></thumbnail>
+<thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </plugin>
 
 <dir>
