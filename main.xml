@@ -25,13 +25,18 @@
 <dir>
     <title>Horror Collection</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horrorcollection.xml</link>
-  </dir>
+    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+</dir>
+
+
 
 
 <dir>
     <title>Killer Movies</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror.xml</link>
-  </dir>
+    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+</dir>
+
 
 
 
