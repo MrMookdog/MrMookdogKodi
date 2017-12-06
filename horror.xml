@@ -105,6 +105,23 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/om5m4YIDzHC5nEQkyLUUxIwcXZa.jpg</fanart>
 </item>
 
+<item>
+        <title>Candyman</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0103919</imdb>
+                <title>Candyman</title>
+                <year>1992</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/nz9ukQlpBGMTE3MQc0M39IXCiC6.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lMmoJrquZdkCcu9WXHUHDtvQAVs.jpg</fanart>
+</item>
+
+
 
 <item>
         <title>Vacancy</title>
