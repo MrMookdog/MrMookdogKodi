@@ -89,22 +89,23 @@
         <thumbnail>https://www.schnittberichte.com/pics/SBs/100/915034/e_cover.jpg</thumbnail>
 </item>
 
+
 <item>
         <title>Ryde</title>
         <meta>
                 <content>movie</content>
                 <imdb>tt5339418</imdb>
                 <title>Ryde</title>
-                <year>2917</year>
-                
+                <year>2017</year>
         </meta>
         <link>
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
         </link>
-        
-        <thumbnail>https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rMtxdxpt2f7HkWmYqR5jgDfE8Mb.jpg</fanart>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://www.imdb.com/title/tt5339418/mediaviewer/rm3365675776?ref_=tt_ov_i</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </item>
 
 
