@@ -89,6 +89,40 @@
         <thumbnail>https://www.schnittberichte.com/pics/SBs/100/915034/e_cover.jpg</thumbnail>
 </item>
 
+<item>
+        <title>1408</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0450385</imdb>
+                <title>1408</title>
+                <year>2007</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/4onX7UF2MPUgIpkUerLC3dpVfNZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nQrVgI4NDxQTTxzE0McUalR6Gvs.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Vacancy</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0452702</imdb>
+                <title>Vacancy</title>
+                <year>2007</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/raagPxrhC5098rvMh4QbnlJp7aG.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8gHugE1P67nIfVaWsigKpHSkQcD.jpg</fanart>
+</item>
+
+
 
 <item>
         <title>I Spit on Your Grave (1978)</title>
