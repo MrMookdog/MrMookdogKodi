@@ -190,7 +190,24 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w640/whDnqSYg4yYgVzbVhLSjzC5piUR.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wgHNDhkdNA1T3ic7CmfqwcSuoc5.jpg</fanart>
-</item> 
+</item>
+
+<item>
+        <title>Blow Out (1981)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0082085</imdb>
+                <title>Blow Out</title>
+                <year>1981</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/AsrXZnAOpAjmROWc9mvum8lPCbr.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/crsLwg2BB8IIGiTv7CUkKgMPeJO.jpg</fanart>
+</item>
+
 
 <item>
         <title>Monster (2003)</title>
