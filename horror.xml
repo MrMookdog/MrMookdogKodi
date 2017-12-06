@@ -102,10 +102,8 @@
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
         </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>http://www.imdb.com/title/tt5339418/mediaviewer/rm3365675776?ref_=tt_ov_i</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
+        <thumbnail>https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rMtxdxpt2f7HkWmYqR5jgDfE8Mb.jpg</fanart>
 </item>
 
 
