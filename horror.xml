@@ -105,7 +105,6 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/uSzWmHjOY5n4kaEHcA03OVwpEjf.jpg</fanart>
 </item>
 
-
 <item>
         <title>Maximum Overdrive (1986)</title>
         <meta>
@@ -120,6 +119,39 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w640/lgNXAQ1TlKEKzssbjcc5iEhs8mi.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/j9ROmwHHL3SlZOBgdHAQGeFtWXd.jpg</fanart>
+</item>
+
+<item>
+        <title>The Thing (1982)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0084787</imdb>
+                <title>The Thing</title>
+                <year>1982</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/pdnhpZ2f2vQp9F00dTZSCdWNIUQ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hnxieS9l0aWUTOHmNNj4cVoyj52.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Shocker (1989)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0098320</imdb>
+                <title>Shocker</title>
+                <year>1989</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/hT9gfH41qIKKf8rTs8sLsY0Q8KL.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7QjoyyGdBV32x1sEh64dAnNjwg2.jpg</fanart>
 </item>
 
 <item>
