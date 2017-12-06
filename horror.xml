@@ -139,6 +139,22 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/whDnqSYg4yYgVzbVhLSjzC5piUR.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wgHNDhkdNA1T3ic7CmfqwcSuoc5.jpg</fanart>
 </item> 
+
+<item>
+        <title>Monster (2003)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0340855</imdb>
+                <title>Monster</title>
+                <year>2993</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/uIVrPwor7fgSm5MRMj8IWs76gpk.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/alf9croekLfIiZlJ0kDWY6qyerR.jpg</fanart>
+</item> 
        
 
 <item>
