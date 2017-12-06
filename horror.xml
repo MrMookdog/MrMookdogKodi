@@ -89,6 +89,23 @@
         <thumbnail>https://www.schnittberichte.com/pics/SBs/100/915034/e_cover.jpg</thumbnail>
 </item>
 
+<item>
+        <title>The Show (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2088950</imdb>
+                <title>The Show</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/vzi8vnQGqcGfYDyTLKEIoNgdAES.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qxSy8xkhAxtqDM2ysSU41xjAlIh.jpg</fanart>
+</item>
+
+
 
 <item>
         <title>I Spit on Your Grave (1978)</title>
