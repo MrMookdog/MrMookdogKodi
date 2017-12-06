@@ -19,7 +19,8 @@
 <dir>
     <title>Documentaries and interviews</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
-  </dir>
+     <thumbnail></thumbnail>
+</dir>
 
 <dir>
     <title>Horror Collection</title>
