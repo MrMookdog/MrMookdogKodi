@@ -91,6 +91,23 @@
 
 
 <item>
+        <title>I Spit on Your Grave (1978)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0077713</imdb>
+                <title>I Spit on Your Grave</title>
+                <year>1978</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/pQnLgNPhgBxGFPyjhGDt6yReKTK.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/u1YrVf4665Gv8od4VKgP2r6pOIY.jpg</fanart>
+</item>
+
+
+<item>
         <title>Orphan (2009)</title>
         <meta>
                 <content>movie</content>
