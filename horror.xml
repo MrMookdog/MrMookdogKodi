@@ -157,6 +157,22 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rffIJQUkcqwMq0yacxa9crJzGqW.jpg</fanart>
 </item>
 
+<item>
+        <title>Dr. Giggles (1992)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0104139</imdb>
+                <title>Dr. Giggles</title>
+                <year>1992</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/5JDLNXWiSCVRLur0oziJk6q5VVk.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/s0BqbBy17rGITgdHadSHLuhIKbb.jpg</fanart>
+</item>
+
 
 <item>
         <title>Ryde</title>
