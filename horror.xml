@@ -955,6 +955,25 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/3KIy1qFmdLMwUrSlRAiovX5anhR.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7lj11ZVt1L4yChjtVHVJEWZb3I4.jpg</fanart>
 </item>
+        
+ <item>
+        <title>Prom Night II (1987)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0093176</imdb>
+                <title>Prom Night II</title>
+                <year>1987</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/4wHoYhDZ5tfk3E2myRs8vdyoOv1.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rrlpFMEdDfcxEj40o7W9tLS5I5X.jpg</fanart>
+</item>
+
 
 
 <item>
