@@ -710,6 +710,23 @@
 </item>
 
 <item>
+        <title>April Fool's Day (1986)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0090655</imdb>
+                <title>April Fool's Day</title>
+                <year>1986</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/lt87gVHgQ3hM2O5iluLfUNj6fIc.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/vPDr6U0NbDhlpOFnDh5EjplDcfS.jpg</fanart>
+</item>
+
+
+<item>
         <title>Banned from Television (1998)</title>
         <meta>
                 <content>movie</content>
