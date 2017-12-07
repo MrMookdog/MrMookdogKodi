@@ -109,6 +109,22 @@
 </item>
 
 <item>
+        <title>Dressed to Kill (1980)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0080661</imdb>
+                <title>Dressed to Kill</title>
+                <year>1980</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/nKJMsYAWpZECIYy5TsoFeyv2xqQ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nWHKpzIKhRgyfeEMnQXtThbPV9p.jpg</fanart>
+</item>
+
+<item>
         <title>The Last House on the Left (1972)</title>
         <meta>
                 <content>movie</content>
