@@ -106,6 +106,55 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fAHaJJCrW8AlQTuTRYD3rAdut5k.jpg</fanart>
 </item>
 
+<item>
+        <title>The Last House on the Left (1972)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0068833</imdb>
+                <title>The Last House on the Left</title>
+                <year>1972</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/stqETAG3dlWfcO17tRdM7vjxetG.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/uSzWmHjOY5n4kaEHcA03OVwpEjf.jpg</fanart>
+</item>
+
+        <title>The Conjuring (2013)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1457767</imdb>
+                <title>The Conjuring</title>
+                <year>2013</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/xYGkdhOEVoFrLNUotuTXemtQAWd.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ksV4twEYj9HUjq2MP6q2dM0rxWX.jpg</fanart>
+</item>
+
+
+<item>
+        <title>The Visit (2015)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3567288</imdb>
+                <title>The Visit</title>
+                <year>2915</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/xhbNbQyco7qpYhxrqn43KH4gubZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/rE0ZF0cYgTP6FZP6xbiWyZpmAMA.jpg</fanart>
+</item>
+
+
 
 <item>
         <title>The Last House on the Left (1972)</title>
