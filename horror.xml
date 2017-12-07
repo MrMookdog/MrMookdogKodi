@@ -225,6 +225,22 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hnxieS9l0aWUTOHmNNj4cVoyj52.jpg</fanart>
 </item>
 
+<item>
+        <title>Split (2016)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt4972582</imdb>
+                <title>Split</title>
+                <year>2016</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/rXMWOZiCt6eMX22jWuTOSdQ98bY.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg</fanart>
+</item>
+
 
 <item>
         <title>Shocker (1989)</title>
