@@ -198,21 +198,7 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/j9ROmwHHL3SlZOBgdHAQGeFtWXd.jpg</fanart>
 </item>
 
-<item>
-        <title>The Thing (1982)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0084787</imdb>
-                <title>The Thing</title>
-                <year>1982</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <thumbnail>https://image.tmdb.org/t/p/w640/pdnhpZ2f2vQp9F00dTZSCdWNIUQ.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hnxieS9l0aWUTOHmNNj4cVoyj52.jpg</fanart>
-</item>
+
 
 <item>
         <title>Split (2016)</title>
