@@ -18,13 +18,13 @@
 </plugin>
 
 <dir>
-    <title>Documentaries and interviews</title>
+    <title>Killer Documentaries and interviews</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
      <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </dir>
 
 <dir>
-    <title>Horror Collection</title>
+    <title>Killer Horror Collection</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horrorcollection.xml</link>
     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </dir>
@@ -62,12 +62,12 @@
 </dir>
 
 <dir>
-  <title>Serial Killer Search (Trakt)</title>
+  <title>Killer Search (Trakt)</title>
   <trakt>search</trakt>
 </dir>
 
 <dir>
-  <title>Serial Killer Search (tmdb)</title>
+  <title>Killer Search (tmdb)</title>
   <tmdb>search</tmdb>
 </dir>
 
