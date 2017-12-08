@@ -15,6 +15,41 @@
 </item>
 
 <item>
+        <title>Devil Times Five (1974)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0071413</imdb>
+                <title>Devil Times Five</title>
+                <year>1974</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/2LVjq6MzYoZHoQls9ab1XiPYYQV.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sCQxG0aCCgXqlHNaCUhkoZrAzpL.jpg</fanart>
+</item>
+
+<item>
+        <title>Firestarter (1984)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0087262</imdb>
+                <title>Firestarter</title>
+                <year>1984</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/nIo0DYQ7mcRLYUuihN4gao9Xupj.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qKokzxzNbhuMgVHdtQxXSilekuM.jpg</fanart>
+</item>
+
+
+
+
+<item>
         <title>Nighthawks (1981)</title>
         <meta>
                 <content>movie</content>
