@@ -213,6 +213,22 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/rXMWOZiCt6eMX22jWuTOSdQ98bY.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg</fanart>
 </item>
+        
+<item>
+        <title>Leatherface (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2620590</imdb>
+                <title>Leatherface</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/qdRq1EygZK2LIYM6v29ai9uBOhE.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fIOqJeHs4iHUCwSap7wIvgRCwDl.jpg</fanart>
+</item>
 
 
 <item>
