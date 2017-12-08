@@ -15,6 +15,23 @@
 </item>
 
 <item>
+        <title>Nighthawks (1981)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0082817</imdb>
+                <title>Nighthawks</title>
+                <year>1981</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/sjmTgH0Ye1cbBoaLCKJNt3LmasJ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/v3UavcskoHgXayYpAgNHfsvt3SG.jpg</fanart>
+</item>
+
+
+<item>
         <title>Dressed to Kill (1980)</title>
         <meta>
                 <content>movie</content>
