@@ -46,6 +46,23 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qKokzxzNbhuMgVHdtQxXSilekuM.jpg</fanart>
 </item>
 
+<item>
+        <title>Sinister (2012)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1922777</imdb>
+                <title>Sinister</title>
+                <year>2012</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/hrRYY7FcRc46Ue7h9jcKiW1xqJ3.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/lAdRfK0Clun517bq5V0meoIx7SG.jpg</fanart>
+</item>
+
+
 
 
 
