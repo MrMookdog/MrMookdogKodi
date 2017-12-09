@@ -1086,6 +1086,24 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zfs9QuKkZL6ZCluGvjo5Pk49aMv.jpg</fanart>
 </item>
+        
+<item>
+        <title>Christmas Evil (1980)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0081793</imdb>
+                <title>Christmas Evil</title>
+                <year>1980</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/5SdtqoAhX2DVEiFavJKeY1KbfrE.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/voLKtoQw8cerZjpKM5PpLt6j9gR.jpg</fanart>
+</item>
 
 
 
