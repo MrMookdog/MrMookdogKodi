@@ -1,4 +1,22 @@
 <item>
+        <title>The Show (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2088950</imdb>
+                <title>The Show</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/uocQTmsbWzUQJrpuMBX5uGAU9ZC.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/A4pEYA8zDqIHBf4nEHP9TbPzTou.jpg</fanart>
+</item>
+
+
+
+<item>
         <title>When a Stranger Calls (1979)</title>
         <meta>
                 <content>movie</content>
