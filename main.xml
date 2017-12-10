@@ -17,6 +17,12 @@
 <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </plugin>
 
+<item>
+<title>If You get Daily limit exceeded error in youtube watch this video</title>
+<link>https://www.youtube.com/watch?v=48FUwqA-Ad0&t=22s</link>
+<thumbnail>http://mookdog.tech/icon.png</thumbnail>
+</item>
+
 <dir>
     <title>Killer Documentaries and interviews</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
