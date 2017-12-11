@@ -81,6 +81,23 @@
 </item>
 
 
+<item>
+        <title>Cujo (1983)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0085382</imdb>
+                <title>Cujo</title>
+                <year>1983</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/ufczAHvnoGIXJo7sDo0OZK4LcwZ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qY2MsxeeZXbwBM6dXwJYanjRqUG.jpg</fanart>
+</item>
+
+
 
 
 
