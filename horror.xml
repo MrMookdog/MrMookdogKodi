@@ -149,6 +149,24 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xE0jrPXFSqQM6Eqv1MmWyRaaSML.jpg</fanart>
 </item>
 
+<item>
+        <title>Phantasm (1979)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0079714</imdb>
+                <title>Phantasm</title>
+                <year>1979</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnailhttps://image.tmdb.org/t/p/w640/hhvRsYK8IHgRt1zSO17bfxLJ61H.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9hceK4BzYY8jylNAQu0ZYYGlcFg.jpg</fanart>
+</item>
+
+
+
 
 <item>
         <title>Dressed to Kill (1980)</title>
