@@ -77,11 +77,7 @@
   <tmdb>search</tmdb>
 </dir>
 
-<dir>
-    <title>Killer Podcasts</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/serialpod.xml</link>
-    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
-</dir>
+
 
 
 
