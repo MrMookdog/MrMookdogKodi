@@ -642,6 +642,22 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w640/uIVrPwor7fgSm5MRMj8IWs76gpk.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/alf9croekLfIiZlJ0kDWY6qyerR.jpg</fanart>
+</item>
+        
+<item>
+        <title>Ed Gein (2000)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0230169</imdb>
+                <title>Ed Gein</title>
+                <year>2000</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/7g5LgQTT2cNObaHUC1XBSLpFTsz.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6S8WI3usRy431foMNTe5s7TwKmJ.jpg</fanart>
 </item> 
        
 
