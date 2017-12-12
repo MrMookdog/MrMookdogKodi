@@ -725,6 +725,23 @@
         <thumbnail>https://i.ytimg.com/vi/c8iP9vv-i9k/movieposter.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w1280/qLoTj2r2dyubmSpPmmyLvllqnGj.jpg</fanart>
 </item>
+        
+<item>
+        <title>Raising Jeffrey Dahmer (2006)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0482602</imdb>
+                <title>Raising Jeffrey Dahmer</title>
+                <year>2006</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/fmMHsbEbjabwP9vlEPE3xhfj6j4.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cLxi7Ld3BRmKRtCZ5ZgojSScf8g.jpg</fanart>
+</item>
+
 
 <item>
         <title>The Night Stalker (2016)</title>
