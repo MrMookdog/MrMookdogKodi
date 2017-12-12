@@ -794,3 +794,10 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/walvlnCMgZxJT1OAYER3eYErEMu.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/isHdVo5bM4assABnbytgyTCQvk.jpg</fanart>
 </item>
+        
+        
+<dir>
+    <title>NEXT PAGE >></title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror2.xml</link>
+    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+</dir>
