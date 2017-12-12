@@ -879,6 +879,44 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/qUJZFNkWmNUxWpJBPVvoUsp5Sx8.jpg</thumbnail>
         <fanart>https://pic.yts.gs/yt/20160511/28932/screenshot3.png></fanart>
 </item>
+        
+<item>
+        <title>Gacy (2003)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0330181</imdb>
+                <title>Gacy</title>
+                <year>2003</year>
+                
+       </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/65OieL1GViTFuLCi803Mc4cCjrQ.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cTSsK4wc8ctNOQFFhUocofYqZm.jpg</fanart>
+</item>
+    
+        
+<item>
+        <title>8213: Gacy House (2010)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1667418</imdb>
+                <title>8213: Gacy House</title>
+                <year>2010</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/1GE5jrEB5ZefrzKwGgv6uSUCLpI.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/4N8fnnV6CdR33PABUxyx1eRjLW.jpg</fanart>
+</item>
+        
+  
 
 <item>
      
