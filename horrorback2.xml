@@ -282,3 +282,174 @@
         <thumbnail>https://image.tmdb.org/t/p/w640/j58tLbbow4FXToIxgiKO8uUjW35.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tzJBPTWRs9s2xmThzlvYWIpvths.jpg</fanart>
 </item>
+
+
+<item>
+        <title>Candyman</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0103919</imdb>
+                <title>Candyman</title>
+                <year>1992</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/nz9ukQlpBGMTE3MQc0M39IXCiC6.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lMmoJrquZdkCcu9WXHUHDtvQAVs.jpg</fanart>
+</item>
+
+
+
+<item>
+        <title>Vacancy</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0452702</imdb>
+                <title>Vacancy</title>
+                <year>2007</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/raagPxrhC5098rvMh4QbnlJp7aG.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8gHugE1P67nIfVaWsigKpHSkQcD.jpg</fanart>
+</item>
+
+
+
+<item>
+        <title>I Spit on Your Grave (1978)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0077713</imdb>
+                <title>I Spit on Your Grave</title>
+                <year>1978</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/pQnLgNPhgBxGFPyjhGDt6yReKTK.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/u1YrVf4665Gv8od4VKgP2r6pOIY.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Orphan (2009)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1148204</imdb>
+                <title>Orphan</title>
+                <year>2009</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/dVP8tE9bV2oIv1l0aWtTUJndZvc.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rffIJQUkcqwMq0yacxa9crJzGqW.jpg</fanart>
+</item>
+
+<item>
+        <title>Dr. Giggles (1992)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0104139</imdb>
+                <title>Dr. Giggles</title>
+                <year>1992</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/5JDLNXWiSCVRLur0oziJk6q5VVk.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/s0BqbBy17rGITgdHadSHLuhIKbb.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Ryde</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5339418</imdb>
+                <title>Ryde</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/jc5yQmz64cTCGVnep7EIGjuU4tN.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rMtxdxpt2f7HkWmYqR5jgDfE8Mb.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Leatherface: Texas Chainsaw Massacre III (1990)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0099994</imdb>
+                <title>Leatherface: Texas Chainsaw Massacre III (1990)</title>
+                <year>1990</year>
+                
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/6NmMY1e7P9bkb0I1srDuV6fjIzt.jpg</thumbnail>
+        <fanart>http://www.fangoria.com/new/wp-content/uploads/2015/11/la-matanza-de-texas-7.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Summer of Sam (1999)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0162677</imdb>
+                <title>Summer of Sam</title>
+                <year>1999</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5e/Summer_Of_Sam_%28movie%29.jpg</thumbnail>
+        <fanart>https://i.ytimg.com/vi/l292Un1o7ZM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+        <title>Class of 1984 (1982)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0083739</imdb>
+                <title>Class of 1984</title>
+                <year>1982</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/whDnqSYg4yYgVzbVhLSjzC5piUR.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wgHNDhkdNA1T3ic7CmfqwcSuoc5.jpg</fanart>
+</item>
+
+<item>
+        <title>Blow Out (1981)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0082085</imdb>
+                <title>Blow Out</title>
+                <year>1981</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/AsrXZnAOpAjmROWc9mvum8lPCbr.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/crsLwg2BB8IIGiTv7CUkKgMPeJO.jpg</fanart>
+</item>
