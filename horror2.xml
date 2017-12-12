@@ -47,23 +47,6 @@
 </item>
 
 
-<item>
-        <title>Cujo (1983)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0085382</imdb>
-                <title>Cujo</title>
-                <year>1983</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <thumbnail>https://image.tmdb.org/t/p/w640/ufczAHvnoGIXJo7sDo0OZK4LcwZ.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qY2MsxeeZXbwBM6dXwJYanjRqUG.jpg</fanart>
-</item>
-
-
 
 
 
@@ -113,22 +96,6 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w640/1uDctrkGdK9KmJ4YIX7lEjhipTh.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xE0jrPXFSqQM6Eqv1MmWyRaaSML.jpg</fanart>
-</item>
-
-<item>
-        <title>Phantasm (1979)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0079714</imdb>
-                <title>Phantasm</title>
-                <year>1979</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <thumbnail>https://image.tmdb.org/t/p/w640/hhvRsYK8IHgRt1zSO17bfxLJ61H.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9hceK4BzYY8jylNAQu0ZYYGlcFg.jpg</fanart>
 </item>
 
 
