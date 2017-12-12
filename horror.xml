@@ -32,6 +32,21 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fAHaJJCrW8AlQTuTRYD3rAdut5k.jpg</fanart>
 </item>
 
+<item>
+        <title>The Iceman (2012)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1491044</imdb>
+                <title>The Iceman</title>
+                <year>2012</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/xLurXBsrgkNMg2Im1KA4HXC56xv.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cR7lFfi0swhnfx4bZADohHVW7wh.jpg</fanart>
+</item>
 
 
 <item>
