@@ -1,3 +1,4 @@
+
 <item>
         <title>The Amityville Horror (1979)</title>
         <meta>
@@ -12,6 +13,23 @@
         </link>
         <thumbnail>https://image.tmdb.org/t/p/w640/orociMcS1GExIcuiGbYYHlRlcL8.jpg</thumbnail>
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rtJwPSYXxxuNKkDwDPjms4K7JJX.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Amityville II: The Possession (1982)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0083550</imdb>
+                <title>Amityville II: The Possession</title>
+                <year>1982</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/qzvf4p6bKyadZQo2aZFsR4uuT2W.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rZHdqFaKU6FuSCfchnyjm8nMjrd.jpg</fanart>
 </item>
 
 
