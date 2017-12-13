@@ -1,4 +1,21 @@
 <item>
+        <title>Insidious (2010)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1591095</imdb>
+                <title>Insidious</title>
+                <year>2010</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/6Tjg6DWVo2cpqDLxrOQNw1UvIMB.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/2izY6Yylxagm2xxJilaIIAVBHOv.jpg</fanart>
+</item>
+
+
+<item>
         <title>V/H/S (2012)</title>
         <meta>
                 <content>movie</content>
