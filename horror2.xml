@@ -143,6 +143,24 @@
 </item>
 
 <item>
+        <title>Patrick (2013)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2147459</imdb>
+                <title>Patrick</title>
+                <year>2013</year>
+ 
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/n6HehRENFhdE7XzllB5aotiZMua.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qwxHBi2xZeSHFMTqI1aLws5akR1.jpg</fanart>
+</item>
+
+
+<item>
         <title>Dear Mr. Gacy (2010)</title>
         <meta>
                 <content>movie</content>
