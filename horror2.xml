@@ -66,6 +66,22 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rZHdqFaKU6FuSCfchnyjm8nMjrd.jpg</fanart>
 </item>
 
+<item>
+        <title>Motel Hell (1980)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0081184</imdb>
+                <title>Motel Hell</title>
+                <year>1980</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/4vsxPiBQZa7nNMu8Mk8F4O3Pba9.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7P30dtyk6TWRK4gWOjAxbcTfgpR.jpg</fanart>
+</item>
+
 
 
 
