@@ -34,6 +34,7 @@
     <title>Killer Horror Boxset Collection</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horrorcollection.xml</link>
     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>Collection of Horror Movies</summary>
 </dir>
 
 
@@ -43,12 +44,14 @@
     <title>Killer Movies</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror.xml</link>
     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>A collection of my personal favorites</summary>
 </dir>
 
 <dir>
     <title>Killer Youtube Movies</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>Movies streamed from youtube</summary>
 </dir>
 
 
@@ -71,11 +74,13 @@
 <dir>
   <title>Killer Search (Trakt)</title>
   <trakt>search</trakt>
+   <summary>Search for any movie</summary>  
 </dir>
 
 <dir>
   <title>Killer Search (tmdb)</title>
   <tmdb>search</tmdb>
+    <summary>Search for any movie</summary>
 </dir>
 
 
@@ -83,6 +88,7 @@
     <title>Killer Podcasts</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/serialpod.xml</link>
     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>Podcasts about Serial Killers</summary>
 </dir>
 
 
