@@ -27,7 +27,7 @@
     <title>Killer Documentaries and interviews</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
      <thumbnail>http://mookdog.tech/icon.png</thumbnail>
-    <summary>Various Serial Killer documentaries pulled from youtube</summary>
+    <summary>Various Serial Killer documentaries streamed from youtube</summary>
 </dir>
 
 <dir>
@@ -59,16 +59,19 @@
 <dir>
  <title>Pure Serial killer Movies (Random Movies)</title>
  <tmdb>keyword/movies/10714</tmdb>
+    <summary>Random Serial Killer Movies</summary>
 </dir>
 
 <dir>
  <title>Pure Serial Killer TV shows (Random Shows)</title>
  <tmdb>keyword/shows/10714</tmdb>
+ <summary>Random Serial Killer TV Shows</summary?   
 </dir>
 
 <dir>
   <title>Pure Horror (Random Horror Movies)</title>
   <tmdb>genre/movies/27</tmdb>
+    <summary>Random Horror Movies</summary>  
 </dir>
 
 <dir>
