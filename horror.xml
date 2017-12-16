@@ -1,19 +1,19 @@
-<item>
-        <title>Manson Speaks: Inside the Mind of a Madman (2017)</title>
-        <meta>
-                <content>tvshow</content>
-                <imdb>tt7735930</imdb>
-                <title>Manson Speaks: Inside the Mind of a Madman</title>
-                <year>2017</year>
-                <summary>The two-part special "Manson Speaks: Inside the Mind of a Madman" presents a new theory on Manson’s motives that does not align with the “Helter Skelter” theory he was prosecuted under; brings forth eye witnesses who are speaking publicly about Manson for the first time; and makes contact with the only convicted Manson Family killer who is currently out of prison and living under a pseudonym.The special also examines 26 hours of exclusive never-before-broadcast phone conversations with Manson that may change the scope of his crimes, almost five decades later</summary>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <thumbnail>https://image.tmdb.org/t/p/w640/qk58XL30T1wBkDdMQNZyH77bXvz.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nhrJ8sNDizUsTe5UX8HU8YjYK4P.jpg</fanart>
-</item>
+<dir>
+          <name>Manson Speaks: Inside the Mind of a Madman</name>
+          <meta>
+                  <content>season</content>
+                  <imdb>tt7735930</imdb>
+                  <tvdb>338819</tvdb>
+                  <tvshowtitle>>Manson Speaks: Inside the Mind of a Madman</tvshowtitle>
+                  <year>2017</year>
+                  <season>1</season>
+          </meta>
+          <link>https://www.thetvdb.com/index.php?tab=series&id=338819&lid=7</link>
+          <animated_thumbnail></animated_thumbnail>
+          <thumbnail></thumbnail>
+          <animated_fanart></animated_fanart>
+          <fanart></fanart>
+  </dir>
 
 
 
