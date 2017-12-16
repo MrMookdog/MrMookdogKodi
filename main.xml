@@ -49,7 +49,7 @@
 
 <dir>
 <title>Killer TV Shows</title>
-<trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/items</trakt>
+<trakt>https://api.trakt.tv/users/me/lists/killer-tv-shows/items</trakt>
 </dir>
 
 <dir>
