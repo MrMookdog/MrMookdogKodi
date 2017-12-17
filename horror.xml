@@ -163,6 +163,23 @@
 </item>
 
 <item>
+        <title>Identity (2003)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0309698</imdb>
+                <title>Identity</title>
+                <year>2003</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/xSNSp2wmCUwFavxdkMF417hBc39.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hPekz19UZoH0cTm6Va1ODn3YmKH.jpg</fanart>
+</item>
+
+
+<item>
         <title>The Funhouse (1981)</title>
         <meta>
                 <content>movie</content>
