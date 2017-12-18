@@ -1,4 +1,56 @@
 <item>
+        <title>The Town That Dreaded Sundown (1976)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0075342</imdb>
+                <title>The Town That Dreaded Sundown</title>
+                <year>1976</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/z3OMI8eTTveYIVbYCnzNAPuYvnC.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9OSsu6rfD3GNL1qtFHqMePjm6Cj.jpg</fanart>
+</item>
+
+
+<item>
+        <title>The Town That Dreaded Sundown (2014)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt2561546</imdb>
+                <title>The Town That Dreaded Sundown</title>
+                <year>2014</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/i5lOLglMSMdJjxSTI7GZiLYzNHn.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/v15hk87V35lz1gYtpqqHtD0eIpN.jpg</fanart>
+</item>
+
+
+
+<item>
+        <title>The Voices (2014)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1567437</imdb>
+                <title>The Voices</title>
+                <year>2014</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/3IYAFIMLBuuLE5LVPQ4inDttg1F.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/j6geLB0uTsa89ydeliQsKdkAYTR.jpg</fanart>
+</item>
+
+
+<item>
         <title>Insidious (2010)</title>
         <meta>
                 <content>movie</content>
