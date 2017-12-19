@@ -50,12 +50,12 @@
 
 <dir>
 <title>Killer TV Shows (Under Construction)</title>
-<trakt>https://api.trakt.tv/users/me/lists/killer-tv-shows/items</trakt>
+<trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/items</trakt>
 </dir>
 
 <dir>
 <title>Killer Gangster Movies</title>
-<trakt>https://api.trakt.tv/users/me/lists/killer-gangster-movies/items</trakt>
+<trakt>https://api.trakt.tv/users/mookdog/lists/killer-gangster-movies/items</trakt>
 </dir>
 
 
