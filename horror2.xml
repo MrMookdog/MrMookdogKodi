@@ -151,6 +151,40 @@
 </item>
 
 
+<item>
+        <title>The Terminator (1984)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0088247</imdb>
+                <title>The Terminator</title>
+                <year>1984</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/q8ffBuxQlYOHrvPniLgCbmKK4Lv.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6yFoLNQgFdVbA8TZMdfgVpszOla.jpg</fanart>
+</item>
+
+
+<item>
+        <title>Terminator 2 (1991)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0103064</imdb>
+                <title>Terminator 2</title>
+                <year>1991</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/2y4dmgWYRMYXdD1UyJVcn2HSd1D.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/i5megxGRBadEZEUeej5ADFnYLlB.jpg</fanart>
+</item>
+
+
 
 
 <item>
