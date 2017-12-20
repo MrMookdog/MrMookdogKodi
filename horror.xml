@@ -151,6 +151,23 @@
 </item>
 
 <item>
+        <title>American Psycho (2000)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0144084</imdb>
+                <title>American Psycho</title>
+                <year>2000</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/qXsylPM4Lr5397R3eHrfqHhTUNc.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zf7L87ZS2cXjaRT5d3ibIUaJvoo.jpg</fanart>
+</item>
+
+
+<item>
         <title>Nighthawks (1981)</title>
         <meta>
                 <content>movie</content>
