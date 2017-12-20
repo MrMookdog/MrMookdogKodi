@@ -24,7 +24,7 @@
 </item>
 
 <dir>
-    <title>Killer Documentaries and interviews</title>
+    <title>Killer Documentaries and interviews (Youtube addon required)</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
      <thumbnail>http://mookdog.tech/icon.png</thumbnail>
     <summary>Various Serial Killer documentaries streamed from youtube</summary>
