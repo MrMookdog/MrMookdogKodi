@@ -1,4 +1,22 @@
 <item>
+        <title>An American Werewolf in London (1981)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0082010</imdb>
+                <title>An American Werewolf in London</title>
+                <year>1981</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/lDClXHP08BUP4D4iRqix0XxLEZF.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sin5oZO8ot76h8D4ezExNVqhzLg.jpg</fanart>
+</item>
+
+
+
+<item>
         <title>A Walk Among the Tombstones (2014)</title>
         <meta>
                 <content>movie</content>
