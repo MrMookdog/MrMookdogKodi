@@ -100,6 +100,59 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sCQxG0aCCgXqlHNaCUhkoZrAzpL.jpg</fanart>
 </item>
 
+<item>
+        <title>Unforgettable (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3462710</imdb>
+                <title>Unforgettable</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/jKyjJu3N0bcF9TzcyGLb0Nn6Uqq.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9Sd3RuIbnFCA4SX8CiBsp4x1XPd.jpg</fanart>
+</item>
+
+<item>
+        <title>Would You Rather (2012)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1999995</imdb>
+                <title>Woukd You Rather</title>
+                <year>2012</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/yOAU7HHVw4RrDGK97i6ll46JVfj.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3MIVayjUKlMa5XzAH8bloDKEoAW.jpg</fanart>
+</item>
+
+
+
+
+<item>
+        <title>Devil (2010)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1314655</imdb>
+                <title>Devil</title>
+                <year>2010</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/m54c0mMcsQfNcRk2As2qH8Y5DQG.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/n5q3X8tuhsTiU9EPYY50MqjaYRA.jpg</fanart>
+</item>
+
+
+
 
 <item>
         <title>Cannibal Holocaust (1980)</title>
