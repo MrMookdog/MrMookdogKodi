@@ -1,4 +1,24 @@
 <item>
+        <title>The Omen (1976)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0075005</imdb>
+                <title>The Omen</title>
+                <year>1976</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/uY14zS4Sm2DdvFXeczFKgLgkQUP.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zme4RH7DVdRSGrTk7bNvcGGywAW.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
         <title>An American Werewolf in London (1981)</title>
         <meta>
                 <content>movie</content>
