@@ -51,12 +51,14 @@
 <dir>
 <title>Killer TV Shows (Under Construction)</title>
 <trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/items</trakt>
-    <summary>TV Shows</summary>
+  <thumbnail>http://mookdog.tech/icon.png</thumbnail>   
+<summary>TV Shows</summary>
 </dir>
 
 <dir>
 <title>Killer Gangster Movies</title>
 <trakt>https://api.trakt.tv/users/mookdog/lists/killer-gangster-movies/items</trakt>
+<thumbnail>http://mookdog.tech/icon.png</thumbnail>
     <summary>Killer Gangster Movies</summary>
 </dir>
 
@@ -73,30 +75,35 @@
 <dir>
  <title>Pure Serial killer Movies (Random Movies)</title>
  <tmdb>keyword/movies/10714</tmdb>
+  <thumbnail>http://mookdog.tech/icon.png</thumbnail> 
     <summary>Random Serial Killer Movies</summary>
 </dir>
 
 <dir>
  <title>Pure Serial Killer TV shows (Random Shows)</title>
  <tmdb>keyword/shows/10714</tmdb>
+ <thumbnail>http://mookdog.tech/icon.png</thumbnail>
     <summary>Random Serial Killer TV Shows</summary>
 </dir>
 
 <dir>
   <title>Pure Horror (Random Horror Movies)</title>
   <tmdb>genre/movies/27</tmdb>
+     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
     <summary>Random Horror Movies</summary>  
 </dir>
 
 <dir>
   <title>Killer Search (Trakt)</title>
   <trakt>search</trakt>
+  <thumbnail>http://mookdog.tech/icon.png</thumbnail>
    <summary>Search for any movie</summary>  
 </dir>
 
 <dir>
   <title>Killer Search (tmdb)</title>
   <tmdb>search</tmdb>
+   <thumbnail>http://mookdog.tech/icon.png</thumbnail>
     <summary>Search for any movie</summary>
 </dir>
 
