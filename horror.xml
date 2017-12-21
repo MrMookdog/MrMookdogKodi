@@ -170,6 +170,22 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nmZrtjeP3j7lTDKlNv4ayhq6AYR.jpg</fanart>
 </item>
 
+<item>
+        <title>The Strangers (2008)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0482606</imdb>
+                <title>The Strangers</title>
+                <year>2008</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/pZwTosOfiB9hGvXvPg9fpoOqKmp.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oH1ZLIimpNHZ1dLczYuGkB1O6lU.jpg</fanart>
+</item>
+
 
 
 
