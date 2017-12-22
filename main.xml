@@ -116,6 +116,12 @@
 </dir>
 
 
+<plugin>
+<name>Killer settings</name>
+<link>plugin://plugin.video.jen/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
+
 
 
 
