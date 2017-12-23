@@ -1,4 +1,24 @@
 <item>
+        <title>The Grudge (2004)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0391198</imdb>
+                <title>The Grudge</title>
+                <year>2004</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/y05X9RL0FIcEwoVSTppCPcQwhvf.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jLtAbxJvYdveTr3AeBZyzf9dkOM.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
         <title>The Hand That Rocks the Cradle (1992)</title>
         <meta>
                 <content>movie</content>
