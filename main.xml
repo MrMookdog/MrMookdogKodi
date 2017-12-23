@@ -119,7 +119,7 @@
 <plugin>
 <name>Killer settings</name>
 <link>plugin://plugin.video.jen/?action=openSettings</link>
-<thumbnail></thumbnail>
+<thumbnail>http://icons.iconarchive.com/icons/iconmoon/viva/256/Control-Panel-icon.png</thumbnail>
 </plugin>
 
 
