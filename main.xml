@@ -17,6 +17,15 @@
 <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </plugin>
 
+
+<plugin>
+<title>I have included the youtube addon in my repository http://mookdog.tech/repo</title>
+<link></link>
+<thumbnail>http://mookdog.tech/icon.png</thumbnail>
+</plugin>
+
+
+
 <item>
 <title>If You get Daily limit exceeded error in youtube click here and watch this video</title>
 <link>https://www.youtube.com/watch?v=48FUwqA-Ad0&t=22s</link>
