@@ -306,6 +306,24 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/s883pxrjObnvAms1TMoPAOu5yIX.jpg</fanart>
 </item>
 
+
+<item>
+        <title>What Lies Beneath (2000)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0161081</imdb>
+                <title>What Lies Beneath</title>
+                <year>2000</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/A1mrfm8LEv7L28q50ld8QI5z9Iu.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hpZnP0w1XVAdOgWgfuglMCeMzSy.jpg</fanart>
+</item>
+
+
 <item>
         <title>Identity (2003)</title>
         <meta>
