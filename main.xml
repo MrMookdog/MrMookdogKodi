@@ -115,6 +115,14 @@ dir>
 </dir>
 
 <dir>
+  <title>Killer Classic TV Shows</title>
+  <tmdb>list/38976</tmdb>
+  <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+  <summary>A collection of classic TV shows</summary>
+</dir>
+
+
+<dir>
  <title>Pure Serial Killer TV shows (Random Shows)</title>
  <tmdb>keyword/shows/10714</tmdb>
  <thumbnail>http://mookdog.tech/icon.png</thumbnail>
