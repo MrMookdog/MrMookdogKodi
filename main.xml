@@ -57,12 +57,19 @@
 </dir>
 
 
+
 <dir>
 <title>Killer TV Shows (Under Construction)</title>
 <trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/items</trakt>
   <thumbnail>http://mookdog.tech/icon.png</thumbnail>   
 <summary>TV Shows</summary>
 </dir>
+
+<dir>
+      <title>My Killer Trakt collection (Various Genres)</title>
+      <trakt>https://trakt.tv/users/mookdog/collection/movies</trakt>
+    </dir>
+
 
 <dir>
 <title>Killer Gangster Movies</title>
