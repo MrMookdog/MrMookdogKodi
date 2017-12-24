@@ -40,6 +40,14 @@
 </dir>
 
 <dir>
+  <title>Killer Theater Movies</title>
+  <tmdb>movies/now_playing</tmdb>
+  <summary>Movies now playing in theaters</summary>
+</dir>
+
+
+
+<dir>
     <title>Killer Horror Boxset Collection</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horrorcollection.xml</link>
     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
