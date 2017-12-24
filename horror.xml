@@ -229,6 +229,24 @@
 </item>
 
 <item>
+        <title>Machete (2010)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0985694</imdb>
+                <title>Machete</title>
+                <year>2010</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/3RCX4EzTrpO6wNz536EQPhYM2Fk.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qayeOS1ySq99RmGKiELH7sCOLpv.jpg</fanart>
+</item>
+
+
+
+<item>
         <title>The Strangers (2008)</title>
         <meta>
                 <content>movie</content>
