@@ -297,6 +297,26 @@
         <fanart>https://image.tmdb.org/t/p/original/lAdRfK0Clun517bq5V0meoIx7SG.jpg</fanart>
 </item>
 
+
+<item>
+        <title>Law Abiding Citizen (2009)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1197624</imdb>
+                <title>Law Abiding Citizen</title>
+                <year>2009</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/p7zwLp8gCKyrNLCHP3RhmN5izHo.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hwW0mIOrMGzMeqGJgCfpjutpWpx.jpg</fanart>
+</item>
+
+
+
+
 <item>
         <title>Cujo (1983)</title>
         <meta>
