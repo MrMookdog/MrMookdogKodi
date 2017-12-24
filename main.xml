@@ -65,12 +65,18 @@
 <summary>TV Shows</summary>
 </dir>
 
+
 <dir>
-      <title>My Killer Trakt collection (Various Genres)</title>
-      <trakt>https://trakt.tv/users/mookdog/collection/movies</trakt>
-    </dir>
+<title>Killer Comedies</title>
+<trakt>https://trakt.tv/users/mookdog/lists/killer-comedies/items</trakt>
+<thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>Killer Comedies</summary>
+</dir>
 
 
+
+
+<
 <dir>
 <title>Killer Gangster Movies</title>
 <trakt>https://api.trakt.tv/users/mookdog/lists/killer-gangster-movies/items</trakt>
