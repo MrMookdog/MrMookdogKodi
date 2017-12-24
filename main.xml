@@ -40,6 +40,13 @@
 </dir>
 
 <dir>
+    <title>Killer Youtube Movies</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
+    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>Movies streamed from youtube</summary>
+</dir>
+
+<dir>
   <title>Killer Theater Movies</title>
   <tmdb>movies/now_playing</tmdb>
   <summary>Movies now playing in theaters</summary>
@@ -64,23 +71,23 @@
     <summary>A collection of my personal favorites</summary>
 </dir>
 
-
-
-<dir>
-<title>Killer TV Shows (Under Construction)</title>
-<trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/items</trakt>
-  <thumbnail>http://mookdog.tech/icon.png</thumbnail>   
-<summary>TV Shows</summary>
+dir>
+  <title>Pure Horror (Random Horror Movies)</title>
+  <tmdb>genre/movies/27</tmdb>
+     <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>Random Horror Movies</summary>  
 </dir>
 
+
+
 <dir>
-<title>Killer Comedies</title>
+<title>Killer Comedy Movies</title>
 <trakt>https://api.trakt.tv/users/mookdog/lists/killer-comedies/items</trakt>
 <summary>A collection of Comedy Movies</summary>
 </dir>
 
 <dir>
-<title>Killer Action and Drama</title>
+<title>Killer Action and Drama Movies</title>
 <trakt>https://api.trakt.tv/users/mookdog/lists/killer-action/items</trakt>
 <summary>A collection of Action and Drama Movies</summary>
 </dir>
@@ -94,19 +101,17 @@
 
 
 <dir>
-    <title>Killer Youtube Movies</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
-    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
-    <summary>Movies streamed from youtube</summary>
-</dir>
-
-
-
-<dir>
  <title>Pure Serial killer Movies (Random Movies)</title>
  <tmdb>keyword/movies/10714</tmdb>
   <thumbnail>http://mookdog.tech/icon.png</thumbnail> 
     <summary>Random Serial Killer Movies</summary>
+</dir>
+
+<dir>
+<title>Killer TV Shows (Under Construction)</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/items</trakt>
+  <thumbnail>http://mookdog.tech/icon.png</thumbnail>   
+<summary>TV Shows</summary>
 </dir>
 
 <dir>
