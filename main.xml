@@ -46,6 +46,13 @@
     <summary>Movies streamed from youtube</summary>
 </dir>
 
+<dir>
+<title>Killer Screeners</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/screeners/items</trakt>
+<thumbnail>http://mookdog.tech/icon.png</thumbnail>
+<summary>2017/2018 Academy Award Screeners</summary>
+</dir>
+
 
 
 
@@ -56,12 +63,6 @@
   <summary>Movies now playing in theaters</summary>
 </dir>
 
-<dir>
-    <title>Killer 2017/2018 Screeners</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/screeners.xml</link>
-    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
-    <summary>Academy Award Screeners</summary>
-</dir>
 
 
 
