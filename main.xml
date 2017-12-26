@@ -46,11 +46,21 @@
     <summary>Movies streamed from youtube</summary>
 </dir>
 
+
+
+
 <dir>
   <title>Killer Theater Movies</title>
   <tmdb>movies/now_playing</tmdb>
   <thumbnail>http://mookdog.tech/Theater.png</thumbnail>
   <summary>Movies now playing in theaters</summary>
+</dir>
+
+<dir>
+    <title>2017/2018 Screeners</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/screeners.xml</link>
+    <thumbnail>http://mookdog.tech/icon.png</thumbnail>
+    <summary>Academy Award Screeners</summary>
 </dir>
 
 
