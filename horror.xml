@@ -1,4 +1,24 @@
 <item>
+        <title>In Cold Blood (1967)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0061809</imdb>
+                <title>In Cold Blood</title>
+                <year>1967</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/t5wnOmnrsp3T2zImTsArJe84Gt9.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gGXTkx6LSqBox05IWYSwABh9Pgh.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
         <title>One Hour Photo (2002)</title>
         <meta>
                 <content>movie</content>
