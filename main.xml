@@ -113,6 +113,15 @@ dir>
     <summary>A colllection of Gangster Movies</summary>
 </dir>
 
+<dir>
+<title>Killer Kids Movies</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/kids/items</trakt>
+<thumbnail>http://mookdog.tech/kids.png</thumbnail>
+    <summary>A colllection of Kids Movies</summary>
+</dir>
+
+
+
 
 <dir>
  <title>Pure Serial killer Movies (Random Movies)</title>
