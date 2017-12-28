@@ -291,6 +291,26 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9Sd3RuIbnFCA4SX8CiBsp4x1XPd.jpg</fanart>
 </item>
 
+
+<item>
+        <title>Invasion of the Body Snatchers (1978)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0077745</imdb>
+                <title>Invasion of the Body Snatchers</title>
+                <year>1978</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/emvdLecrjSLO8pJII1XbYJqXhcB.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xsKAawIGlguDxgMt1zz3eg8RBaq.jpg</fanart>
+</item>
+
+
+
+
 <item>
         <title>Would You Rather</title>
         <meta>
