@@ -6,6 +6,13 @@
 </dir>
 
 <dir>
+<title>Killer TV Show Genres</title>
+<link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/tvgenre.xml</link>
+  <thumbnail>http://mookdog.tech/tvgenre.png</thumbnail>   
+<summary>TV Shows By genre</summary>
+</dir>
+
+<dir>
 <title>Killer TV Shows By Network</title>
 <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/networks.xml</link>
   <thumbnail>http://mookdog.tech/networks.png</thumbnail>   
