@@ -121,6 +121,13 @@ dir>
 </dir>
 
 
+<dir>
+    <title>Killer Movies by year</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/movieyear.xml</link>
+    <thumbnail>http://mookdog.tech/years.xml</thumbnail>
+    <summary>Movies by year</summary>
+</dir>
+
 
 
 <dir>
