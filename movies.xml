@@ -1,0 +1,154 @@
+<dir>
+    <title>Killer Youtube Movies</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
+    <thumbnail>http://mookdog.tech/Youtube%20movies.png</thumbnail>
+    <summary>Killer Movies streamed from youtube</summary>
+</dir>
+
+<dir>
+<title>Killer Screeners</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/screeners/items</trakt>
+<thumbnail>http://mookdog.tech/screeners.png</thumbnail>
+<summary>2017/2018 Academy Award Screeners</summary>
+</dir>
+
+
+
+
+<dir>
+  <title>Killer Theater Movies</title>
+  <tmdb>movies/now_playing</tmdb>
+  <thumbnail>http://mookdog.tech/Theater.png</thumbnail>
+  <summary>Movies now playing in theaters</summary>
+</dir>
+
+
+
+
+<dir>
+    <title>Killer Horror Boxset Collection</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horrorcollection.xml</link>
+    <thumbnail>http://mookdog.tech/Horror%20boxsets.png</thumbnail>
+    <summary>Collection of Horror Movies</summary>
+</dir>
+
+
+
+
+<dir>
+    <title>Killer Horror / Thriller Movies</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/horror.xml</link>
+    <thumbnail>http://mookdog.tech/Horror%20and%20Thrillers.png</thumbnail>
+    <summary>A collection of my personal favorites</summary>
+</dir>
+
+
+<dir>
+  <title>Killer Horror Genre</title>
+  <tmdb>genre/movies/27</tmdb>
+   <thumbnail>http://mookdog.tech/horrorgenre.png</thumbnail>
+   <summary>Movies in the horror genre</summary>
+</dir>
+
+<dir>
+  <title>Pure Horror (Random Horror Movies)</title>
+  <tmdb>genre/movies/27</tmdb>
+     <thumbnail>http://mookdog.tech/Random%20Horror.png</thumbnail>
+    <summary>Random Horror Movies</summary>  
+</dir>
+
+<dir>
+    <title>Killer Movie Genres</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/moviegenre.xml</link>
+    <thumbnail>http://mookdog.tech/moviegenre.png</thumbnail>
+    <summary>Collection of Horror Movies</summary>
+</dir>
+
+
+
+
+<dir>
+<title>Killer Comedy Movies</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/killer-comedies/items</trakt>
+<thumbnail>http://mookdog.tech/Comedy.png</thumbnail>
+<summary>A collection of Comedy Movies</summary>
+</dir>
+
+<dir>
+<title>Killer Action and Drama Movies</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/killer-action/items</trakt>
+<thumbnail>http://mookdog.tech/Action%20and%20Drama%20Movies.png</thumbnail>
+<summary>A collection of Action and Drama Movies</summary>
+</dir>
+
+<dir>
+<title>Killer Gangster Movies</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/killer-gangster-movies/items</trakt>
+<thumbnail>http://mookdog.tech/Gangster.png</thumbnail>
+    <summary>A colllection of Gangster Movies</summary>
+</dir>
+
+<dir>
+<title>Killer Kids Movies</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/kids/items</trakt>
+<thumbnail>http://mookdog.tech/kids.png</thumbnail>
+    <summary>A colllection of Kids Movies</summary>
+</dir>
+
+
+<dir>
+    <title>Killer Kids Boxset Collection</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/kidsboxset.xml</link>
+    <thumbnail>http://mookdog.tech/kidsboxset.png</thumbnail>
+    <summary>Kids Movie Boxsets</summary>
+</dir>
+
+
+<dir>
+    <title>Killer Chick Flicks</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/chickflicks.xml</link>
+    <thumbnail>http://mookdog.tech/chickflicks.png</thumbnail>
+    <summary>A collection of chick flicks</summary>
+</dir>
+
+
+
+<dir>
+    <title>Killer Movies by year</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/movieyear.xml</link>
+    <thumbnail>http://mookdog.tech/years.png</thumbnail>
+    <summary>Movies by year</summary>
+</dir>
+
+<dir>
+    <title>Killer Movies by Production Company</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/production.xml</link>
+    <thumbnail>http://mookdog.tech/production.png</thumbnail>
+    <summary>Movies by Production Company</summary>
+</dir>
+
+
+
+
+
+<dir>
+ <title>Pure Serial killer Movies (Random Movies)</title>
+ <tmdb>keyword/movies/10714</tmdb>
+  <thumbnail>http://mookdog.tech/Random%20Serial%20Killer%20Movies.png</thumbnail> 
+    <summary>Random Serial Killer Movies</summary>
+</dir>
+
+
+<dir>
+  <title>Killer Search (Trakt)</title>
+  <trakt>search</trakt>
+  <thumbnail>http://mookdog.tech/Trakt.png</thumbnail>
+   <summary>Search for any movie</summary>  
+</dir>
+
+<dir>
+  <title>Killer Search (tmdb)</title>
+  <tmdb>search</tmdb>
+   <thumbnail>http://mookdog.tech/TMDB.png</thumbnail>
+    <summary>Search for any movie</summary>
+</dir>
