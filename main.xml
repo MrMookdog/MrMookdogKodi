@@ -98,6 +98,14 @@
     <summary>Random Horror Movies</summary>  
 </dir>
 
+<dir>
+    <title>Killer Movie Genres</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/moviegenre.xml</link>
+    <thumbnail>http://mookdog.tech/moviegenre.png</thumbnail>
+    <summary>Collection of Horror Movies</summary>
+</dir>
+
+
 
 
 <dir>
