@@ -47,6 +47,13 @@
 <thumbnail>https://www.biography.com/.image/t_share/MTE5NTU2MzE2MzA4MTQ1Njc1/charles-manson-9397912-2-402.jpg</thumbnail>
 </plugin>
 
+
+<plugin>
+<title>The FBI Files</title>
+<link>plugin://plugin.video.youtube/playlist/PL5q8VRGX_yLL_CruUIU-ZE3d0L7JJH-ee/</link>
+<thumbnail>https://www.fbi.gov/wanted/seeking-info/murder-victims-2/@@images/image/preview</thumbnail>
+</plugin>
+
 <plugin>
 <title>Crime Documentaries</title>
 <link>plugin://plugin.video.youtube/channel/UCXoAIK_PKpDBx1o8FT2EsDg/playlists/</link>
