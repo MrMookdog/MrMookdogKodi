@@ -83,7 +83,15 @@
     <summary>A collection of my personal favorites</summary>
 </dir>
 
-dir>
+
+<dir>
+  <title>Killer Horror Genre</title>
+  <tmdb>genre/movies/27</tmdb>
+   <thumbnail>http://mookdog.tech/horrorgenre.png</thumbnail>
+   <summary>Movies in the horror genre</summary>
+</dir>
+
+<dir>
   <title>Pure Horror (Random Horror Movies)</title>
   <tmdb>genre/movies/27</tmdb>
      <thumbnail>http://mookdog.tech/Random%20Horror.png</thumbnail>
