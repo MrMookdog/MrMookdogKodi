@@ -119,6 +119,14 @@ dir>
 <thumbnail>http://mookdog.tech/kids.png</thumbnail>
     <summary>A colllection of Kids Movies</summary>
 </dir>
+<dir>
+    <title>Killer Kids Boxset Collection</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/kidsboxset.xml</link>
+    <thumbnail>http://mookdog.tech/kidsboxset.png</thumbnail>
+    <summary>Kids Movie Boxsets</summary>
+</dir>
+
+
 
 
 <dir>
@@ -127,6 +135,15 @@ dir>
     <thumbnail>http://mookdog.tech/years.png</thumbnail>
     <summary>Movies by year</summary>
 </dir>
+
+<dir>
+    <title>Killer Movies by Production Company</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/production.xml</link>
+    <thumbnail>http://mookdog.tech/production.png</thumbnail>
+    <summary>Movies by Production Company</summary>
+</dir>
+
+
 
 
 
