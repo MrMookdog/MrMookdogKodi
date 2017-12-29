@@ -172,7 +172,7 @@ dir>
 
 <dir>
 <title>Killer TV Shows By Network</title>
-<trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/networks.xml</trakt>
+<link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/networks.xml</link>
   <thumbnail>http://mookdog.tech/networks.xml</thumbnail>   
 <summary>TV Shows By Network</summary>
 </dir>
