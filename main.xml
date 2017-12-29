@@ -171,6 +171,13 @@ dir>
 </dir>
 
 <dir>
+<title>Killer TV Shows By Network</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/killer-tv-shows/networks.xml</trakt>
+  <thumbnail>http://mookdog.tech/networks.xml</thumbnail>   
+<summary>TV Shows By Network</summary>
+</dir>
+
+<dir>
   <title>Killer Classic TV Shows</title>
   <tmdb>list/38976</tmdb>
   <thumbnail>http://mookdog.tech/Classic%20TV.png</thumbnail>
