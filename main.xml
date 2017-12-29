@@ -119,6 +119,8 @@ dir>
 <thumbnail>http://mookdog.tech/kids.png</thumbnail>
     <summary>A colllection of Kids Movies</summary>
 </dir>
+
+
 <dir>
     <title>Killer Kids Boxset Collection</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/kidsboxset.xml</link>
@@ -126,6 +128,13 @@ dir>
     <summary>Kids Movie Boxsets</summary>
 </dir>
 
+
+<dir>
+    <title>Killer Chick Flicks</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/chickflicks.xml</link>
+    <thumbnail>http://mookdog.tech/chickflicks.png</thumbnail>
+    <summary>A collection of chick flicks</summary>
+</dir>
 
 
 
