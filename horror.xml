@@ -15,6 +15,42 @@
 </item>
 
 
+<item>
+        <title>Tony (2009)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1120945</imdb>
+                <title>Tony</title>
+                <year>2009</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/kTyfNqLOxZ5baymN8nOdtarmhiN.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1ovv4fI6V2HYBLeLGR4ReTA8A3r.jpg</fanart>
+</item>
+
+
+
+
+<item>
+        <title>Copycat (1995)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0112722</imdb>
+                <title>Copycat</title>
+                <year>1995</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/80czeJGSoik22fhtUM9WzyjUU4r.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gE1DHa82NZVb9B2Lx2cLNz43Iwd.jpg</fanart>
+</item>
+
+
 
 
 <item>
