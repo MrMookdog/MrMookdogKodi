@@ -33,7 +33,7 @@
 </item>
 
 <dir>
-    <title>Killer Documentaries and interviews (Youtube addon required)</title>
+    <title>Serial Killer Documentaries and interviews (Youtube addon required)</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
      <thumbnail>http://mookdog.tech/Docs%20and%20interviews.png</thumbnail>
     <summary>Various Serial Killer documentaries streamed from youtube</summary>
@@ -43,7 +43,7 @@
     <title>Killer Youtube Movies</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
     <thumbnail>http://mookdog.tech/Youtube%20movies.png</thumbnail>
-    <summary>Movies streamed from youtube</summary>
+    <summary>Killer Movies streamed from youtube</summary>
 </dir>
 
 <dir>
