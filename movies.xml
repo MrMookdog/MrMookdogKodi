@@ -117,7 +117,7 @@
 
 <dir>
 <title>Killer Documentaries</title>
-<trakt>https://api.trakt.tv/users/mookdog/lists/dccs/items</trakt>
+<trakt>https://api.trakt.tv/users/mookdog/lists/docs/items</trakt>
 <thumbnail>http://mookdog.tech/docs2.png</thumbnail>
 <summary>A collection of Various Documentaries</summary>
 </dir>
