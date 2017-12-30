@@ -55,6 +55,14 @@
 </plugin>
 
 <plugin>
+<title>Mobsters</title>
+<link>plugin://plugin.video.youtube/playlist/PLqduaEP5i4pcH1S33OVxp0aBu4Wofd5GH/</link>
+<thumbnail>https://image.tmdb.org/t/p/w640/cyUyfs7eS3SFWEeRTMsFC4LfE69.jpghttps://image.tmdb.org/t/p/w640/cyUyfs7eS3SFWEeRTMsFC4LfE69.jpg</thumbnail>
+</plugin>
+
+
+
+<plugin>
 <title>Crime Documentaries</title>
 <link>plugin://plugin.video.youtube/channel/UCXoAIK_PKpDBx1o8FT2EsDg/playlists/</link>
 <thumbnail>https://yt3.ggpht.com/-zn_hwbVJ2V8/AAAAAAAAAAI/AAAAAAAAAAA/50WSSKzkF3o/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
