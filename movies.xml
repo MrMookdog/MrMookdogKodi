@@ -74,12 +74,16 @@
 <summary>A collection of Comedy Movies</summary>
 </dir>
 
+
+
+
 <dir>
 <title>Killer Action and Drama Movies</title>
 <trakt>https://api.trakt.tv/users/mookdog/lists/killer-action/items</trakt>
 <thumbnail>http://mookdog.tech/Action%20and%20Drama%20Movies.png</thumbnail>
 <summary>A collection of Action and Drama Movies</summary>
 </dir>
+
 
 <dir>
 <title>Killer Gangster Movies</title>
@@ -109,6 +113,13 @@
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/chickflicks.xml</link>
     <thumbnail>http://mookdog.tech/chickflicks.png</thumbnail>
     <summary>A collection of chick flicks</summary>
+</dir>
+
+<dir>
+<title>Killer Documentaries</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/dccs/items</trakt>
+<thumbnail>http://mookdog.tech/docs2.png</thumbnail>
+<summary>A collection of Various Documentaries</summary>
 </dir>
 
 
