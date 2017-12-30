@@ -15,7 +15,38 @@
 </item>
 
 
+<item>
+        <title>Happy Death Day (2017)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt5308322</imdb>
+                <title>Happy Death Day</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oA5ErIMbeOJtVoi5hI1d46SczFo.jpg</fanart>
+</item>
 
+
+<item>
+        <title>Fear (1996)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0116287</imdb>
+                <title>Fear</title>
+                <year>1996</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/reA4wlTY9qGwryVftscFT2q0ZLK.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yBQFqrRyvf7WrmEDAzrny982uDJ.jpg</fanart>
+</item>
 
 
 
