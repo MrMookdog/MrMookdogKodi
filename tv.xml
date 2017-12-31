@@ -6,6 +6,17 @@
 </dir>
 
 <dir>
+      <title>Killer TMDB Popular TV Shows</title>
+      <tmdb>tv/popular</tmdb>
+</dir>
+
+
+<dir>
+      <title>Killer TV Shows Airing Today</title>
+      <tmdb>tv/today</tmdb>
+    </dir>
+
+<dir>
 <title>Killer TV Show Genres</title>
 <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/tvgenre.xml</link>
   <thumbnail>http://mookdog.tech/tvgenre.png</thumbnail>   

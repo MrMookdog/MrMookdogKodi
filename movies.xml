@@ -22,6 +22,12 @@
   <summary>Movies now playing in theaters</summary>
 </dir>
 
+<dir>
+      <title>Killer Top Rated Movies</title>
+      <tmdb>movies/top_rated</tmdb>
+</dir>
+
+
 
 
 
