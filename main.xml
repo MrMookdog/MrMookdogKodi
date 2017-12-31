@@ -61,13 +61,6 @@
 </dir>
 
 
-<dir>
-    <title>Killer Karaoke (Requires Youtube)</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/karaoke.xml</link>
-    <thumbnail>http://mookdog.tech/karaoke.png</thumbnail>
-    <summary>Killer Karaoke Videos with words</summary>
-</dir>
-
 
 <plugin>
 <name>Killer settings</name>
