@@ -6,14 +6,18 @@
 </dir>
 
 <dir>
-      <title>Killer TMDB Popular TV Shows</title>
+      <title>Killer Popular TV Shows</title>
       <tmdb>tv/popular</tmdb>
+	  <thumbnail>http://mookdog.tech/popular.png</thumbnail>
+	  <summary>Popular TV Shows</summary>
 </dir>
 
 
 <dir>
       <title>Killer TV Shows Airing Today</title>
       <tmdb>tv/today</tmdb>
+	  <thumbnail>http://mookdog.tech/airingtoday.png</thumbnail>
+	  <summary>TV Shows Airing Today</summary>
     </dir>
 
 <dir>

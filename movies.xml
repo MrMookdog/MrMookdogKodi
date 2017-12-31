@@ -25,6 +25,8 @@
 <dir>
       <title>Killer Top Rated Movies</title>
       <tmdb>movies/top_rated</tmdb>
+	  <Thumbnail>http://mookdog.tech/toprated.png</thumbnail>
+	  <summary>Top Rated Movies</summary>
 </dir>
 
 
