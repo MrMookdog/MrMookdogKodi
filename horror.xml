@@ -1,4 +1,21 @@
 <item>
+        <title>Strangeland (1998)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0124102</imdb>
+                <title>Strangeland</title>
+                <year>1998</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/4N5c0y9ab4rbz9un65waaBKWIhq.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/v9EWoP65WJlEWolNDhIAGMCKCIY.jpg</fanart>
+</item>
+
+
+<item>
         <title>Cropsey (2009)</title>
         <meta>
                 <content>movie</content>
