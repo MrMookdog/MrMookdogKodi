@@ -51,12 +51,10 @@
 </dir>
 
 
-<dir>
-    <title>101 Killer Horror Movies You Haven't seen</title>
-    <tmdb>movies/list/47/</tmdb>
-    <thumbnail>http://mookdog.tech/Horror%20and%20Thrillers.png</thumbnail>
-    <summary>A collection of Horror Movies You Haven't Seen</summary>
-</dir>
+dir>
+      <title>101 Killer Horror Movies You Never Seen</title>
+      <tmdb>list/47</tmdb>
+    </dir>
 
 
 <dir>
