@@ -6,10 +6,10 @@
 </dir>
 
 <dir>
-<title>Killer Screeners</title>
-<trakt>https://api.trakt.tv/users/mookdog/lists/screeners/items</trakt>
-<thumbnail>http://mookdog.tech/screeners.png</thumbnail>
-<summary>2017/2018 Academy Award Screeners</summary>
+    <title>Killer Screeners</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/screeners.xml</link>
+    <thumbnail>http://mookdog.tech/screeners.png</thumbnail>
+    <summary>2017 / 2018 Academy Award Screeners</summary>
 </dir>
 
 
