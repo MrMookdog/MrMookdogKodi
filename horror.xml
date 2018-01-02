@@ -48,6 +48,23 @@
         <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oA5ErIMbeOJtVoi5hI1d46SczFo.jpg</fanart>
 </item>
 
+<item>
+        <title>The Craigslist Killer (2011)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt1772373</imdb>
+                <title>The Craigslist Killer</title>
+                <year>2011</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <thumbnail>https://image.tmdb.org/t/p/w640/uggEIjdNbrDJnuaGd0HUEBsW0H8.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/kwuDW35FXrGBzoKxXqUGMqlApjh.jpg</fanart>
+</item>
+
+
 
 <item>
         <title>Fear (1996)</title>
