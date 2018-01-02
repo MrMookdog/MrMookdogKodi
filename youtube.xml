@@ -108,12 +108,26 @@
 </item>
 
 <item>
-<title>Banned From Television</title>
-<link></link>
-<sublink>https://vidzi.tv/0hmd5b6drsk8.html</sublink>
-<thumbnail>http://static1.businessinsider.com/image/56c1daa76e97c627008b73ab-480/huluoswaldphotostill.jpg</thumbnail>
-<summary>PBS Frontline presents and in depth look into the life of Lee Harvey Oswald the assassin responsible for the death of JFK</summary>
+        <title>Banned from Television</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0396483</imdb>
+                <title>Banned From Television</title>
+                <year>1998</year>
+        </meta>
+        <link>
+				<sublink>https://vidzi.tv/0hmd5b6drsk8.html</sublink>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w640/dT5Nj64XYQIesPQpYApFZv09JIl.jpg</thumbnail>
+		<animated_fanart></animated_fanart>
+        <fanart></fanart>
 </item>
+
+
+
 
 <item>
 <title>The Kidnapping of Elizabeth Smart</title>
