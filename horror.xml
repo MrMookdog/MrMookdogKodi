@@ -1,4 +1,27 @@
 <item>
+        <title>Lycan</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt4031126</imdb>
+                <title>Lycan</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/w640/bY9hv9FwVyCxsW4cufD8n22mmN6.jpg</thumbnail>
+		<animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+
+
+
+
+
+<item>
         <title>Geostorm</title>
         <meta>
                 <content>movie</content>
@@ -127,6 +150,7 @@
                 <year>2017</year>
         </meta>
         <link>
+		        <sublink>http://scw-157956.gphoto.stream/videos/5a4d8a839d61cb0fe5cae31b.mp4</sublink>
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
         </link>
