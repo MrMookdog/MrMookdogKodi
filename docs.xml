@@ -43,6 +43,14 @@
 
 
 <plugin>
+<title>Killer Crime Watch Daily</title>
+<link>plugin://plugin.video.youtube/channel/UC69uYUqvx-vw4luuX7aHNLQ/playlists/</link>
+<thumbnail>https://yt3.ggpht.com/-6CaTBOwyhCI/AAAAAAAAAAI/AAAAAAAAAAA/DMfU78Yp2ns/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</plugin>
+
+
+
+<plugin>
 <title>Killer Religious Cults</title>
 <link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJFn5Z7WLpBqVgeoVTlHq_zp/</link>
 <thumbnail>https://dallasnews.imgix.net/1490987557-Jonestown-Remains.jpg?w=724&h=500&auto=format&q=60&fit=clip</thumbnail>
