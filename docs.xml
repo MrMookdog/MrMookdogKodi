@@ -35,6 +35,14 @@
 <thumbnail>https://pbs.twimg.com/profile_images/810014199053107201/BI3meMDm.jpg</thumbnail>
 </plugin>
 
+<dir>
+    <title>Born to Kill II</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/borntokill.xml</link>
+     <thumbnail>http://mookdog.tech/Docs%20and%20interviews.png</thumbnail>
+    <summary>Serial killers born to kill</summary>
+</dir>
+
+
 <plugin>
 <title>Killer Crime Scene</title>
 <link>plugin://plugin.video.youtube/channel/UCiYqImC6WTWR3UEvtq6YMcw/playlists/</link>
