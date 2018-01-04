@@ -36,6 +36,12 @@
 </plugin>
 
 <plugin>
+<title>Born to kill II</title>
+<link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJFbdWyws9MLtZc4hCXTid_A/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/810014199053107201/BI3meMDm.jpg</thumbnail>
+</plugin>
+
+<plugin>
 <title>Killer Religious Cults</title>
 <link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJFn5Z7WLpBqVgeoVTlHq_zp/</link>
 <thumbnail>https://dallasnews.imgix.net/1490987557-Jonestown-Remains.jpg?w=724&h=500&auto=format&q=60&fit=clip</thumbnail>
