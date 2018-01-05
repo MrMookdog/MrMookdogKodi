@@ -5,21 +5,21 @@
 #######################################################
 
 <plugin>
-<title>Welcome to Mookdog's Kodi addon Serial Killers Hope you enjoy it</title>
+<title>[COLOR gold]Welcome to Mookdog's Kodi addon Serial Killers Hope you enjoy it[/COLOR]</title>
 <link></link>
 <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </dir>
 </plugin>
 
 <plugin>
-<title>Make sure you have the YOUTUBE addon installed and you are logged in</title>
+<title>[COLOR gold]Make sure you have the YOUTUBE addon installed and you are logged in[/COLOR]</title>
 <link></link>
 <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </plugin>
 
 
 <plugin>
-<title>I have included the youtube addon in my repository http://mookdog.tech/repo</title>
+<title>[COLOR gold]I have included the youtube addon in my repository http://mookdog.tech/repo[/COLOR]</title>
 <link></link>
 <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </plugin>
@@ -27,7 +27,7 @@
 
 
 <item>
-<title>If You get Daily limit exceeded error in youtube click here and watch this video</title>
+<title>[COLOR gold]If You get Daily limit exceeded error in youtube click here and watch this video[/COLOR]</title>
 <link>https://www.youtube.com/watch?v=48FUwqA-Ad0&t=22s</link>
 <thumbnail>http://mookdog.tech/icon.png</thumbnail>
 </item>
