@@ -54,14 +54,6 @@
 
 
 <dir>
-      <title>101 Killer Horror Movies You've Never Seen</title>
-      <tmdb>list/47</tmdb>
-	  <thumbnail>http://mookdog.tech/101.png</thumbnail>
-	  <summary>Horror Movies You've Never Seen</summary>
-</dir>
-
-
-<dir>
   <title>Killer Horror Genre</title>
   <tmdb>genre/movies/27</tmdb>
    <thumbnail>http://mookdog.tech/horrorgenre.png</thumbnail>
