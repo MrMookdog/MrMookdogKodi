@@ -43,6 +43,14 @@
 
 
 <dir>
+<title>Killer Kids Cartoons</title>
+<trakt>https://api.trakt.tv/users/mookdog/lists/kids-cartoons/items</trakt>
+<thumbnail>http://mookdog.tech/cartoons.png</thumbnail>
+<summary>A collection of Kids Cartoons</summary>
+</dir>
+
+
+<dir>
  <title>Pure Serial Killer TV shows (Random Shows)</title>
  <tmdb>keyword/shows/10714</tmdb>
  <thumbnail>http://mookdog.tech/Random%20Serial%20Killer%20TV.png</thumbnail>
