@@ -45,3 +45,12 @@
 <summary>Music Choice Music</summary>
 </dir>
 
+
+<dir>
+<title> Killer UK Music</title>
+<link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/ukmusic.xml</link>
+<thumbnail>http://www.theunsignedguide.com/content/image/Industry/Organisations/UK%20Music.jpg</thumbnail>
+<summary>Various music from the UK</summary>
+</dir>
+
+
