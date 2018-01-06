@@ -84,6 +84,13 @@
 <summary>A collection of Comedy Movies</summary>
 </dir>
 
+<dir>
+<title>Killer Black Films</title>
+<trakt>https://api.trakt.tv/users/fluxb0x/lists/black-movies-by-ranker-com/items</trakt>
+<thumbnail></thumbnail>
+<summary>A collection of Various Black Films</summary>
+</dir>
+
 
 
 
