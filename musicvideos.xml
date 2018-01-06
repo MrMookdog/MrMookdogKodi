@@ -31,5 +31,17 @@
 <summary>The Killer 2000's</summary>
 </plugin>
 
+<plugin>
+<title> Killer Music Choice Videos</title>
+<link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/musicchoicevideo.xml</link>
+<thumbnail>https://lh3.ggpht.com/JSfpaVvLwzqEf5vgPdg0OnBT0ED5mk3KvRKvnthZ_7hOganZzJDF5WCpVjrrF5uPZ_s=w300</thumbnail>
+<summary>Music Choice Videos</summary>
+</plugin>
 
+<plugin>
+<title> Killer Music Choice Music</title>
+<link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/musicchoice.xml</link>
+<thumbnail>https://lh3.ggpht.com/JSfpaVvLwzqEf5vgPdg0OnBT0ED5mk3KvRKvnthZ_7hOganZzJDF5WCpVjrrF5uPZ_s=w300</thumbnail>
+<summary>Music Choice Videos</summary>
+</plugin>
 
