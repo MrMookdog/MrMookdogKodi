@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<name>[COLORyellow]CURRENT LIST [/COLOR]</name>
+<title>[COLORyellow]CURRENT LIST [/COLOR]</title>
 <thumbnail>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/02/music-choice-mc_logo.jpg</thumbnail>
 <fanart>http://www.slopemedia.org/wp-content/uploads/2017/03/wallhaven-84294.jpg</fanart>
 </item>
@@ -318,7 +318,7 @@
 </item>
 
 <item>
-<name>[COLORyellow]CLASSIC LIST [/COLOR]</name>
+<title>[COLORyellow]CLASSIC LIST [/COLOR]</title>
 <thumbnail></thumbnail>
 </item>
 
@@ -560,7 +560,7 @@
 </item>
 
 <item>
-<name>[COLORyellow]KIDS LIST [/COLOR]</name>
+<title>[COLORyellow]KIDS LIST [/COLOR]</title>
 <thumbnail></thumbnail>
 </item>
 
