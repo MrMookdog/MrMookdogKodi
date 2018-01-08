@@ -54,6 +54,14 @@
 </dir>
 
 <dir>
+    <title>Killer Movies and Shows from my server</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/myserver.xml</link>
+    <thumbnail>http://mookdog.tech/myserver.png</thumbnail>
+    <summary>Killer Movies and shows streamed from my server</summary>
+</dir>
+
+
+<dir>
     <title>Killer TV Shows</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/tv.xml</link>
     <thumbnail>http://mookdog.tech/tv2.png</thumbnail>
