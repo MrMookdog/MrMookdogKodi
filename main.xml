@@ -35,7 +35,7 @@
 <dir>
     <title>Serial Killer and Crime Documentaries/interviews (Youtube addon required)</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
-     <thumbnail>http://mookdog.tech/Docs%20and%20interviews.png</thumbnail>
+     <thumbnail>https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png</thumbnail>
     <summary>Various Serial Killer and Crime documentaries streamed from youtube</summary>
 </dir>
 
@@ -49,7 +49,7 @@
 <dir>
     <title>Killer Youtube Movies</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
-    <thumbnail>http://mookdog.tech/Youtube%20movies.png</thumbnail>
+    <thumbnail>https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png</thumbnail>
     <summary>Killer Movies streamed from youtube</summary>
 </dir>
 
