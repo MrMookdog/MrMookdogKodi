@@ -48,6 +48,13 @@
 </dir>
 
 
+<plugin>
+<title>Rare Horror movies from youtube</title>
+<link>plugin://plugin.video.youtube/playlist/PLSeZ6qt37vqxTrOOedrgCRwWQVe2MMAqR/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/Rare_logo.png</thumbnail>
+</plugin>
+
+
 <dir>
   <title>Killer Horror Genre</title>
   <tmdb>genre/movies/27</tmdb>
