@@ -11,3 +11,22 @@
 <thumbnail>https://lh4.googleusercontent.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAACFQ/pOgMC6p5ruY/s0-c-k-no-ns/photo.jpg</thumbnail>
 <summary></summary>
 </item>
+
+
+<item>
+<title>MSNBC</title>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.msnbc.com/sites/msnbc/themes/leanforward/images/site-header/msnbc-logo-card.png</thumbnail>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://109.123.114.178:1935/Livenewson/Livenewson19/chunklist_w1460318590.m3u8</link>
+<thumbnail>http://logok.org/wp-content/uploads/2014/05/CNN-logo.png</thumbnail>
+</item>
+
+<item>
+<title>FOX News</title>
+<link>http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8</link>
+<thumbnail>http://images.all-free-download.com/images/graphiclarge/fox_news_65108.jpg</thumbnail>
+</item>
