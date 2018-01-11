@@ -47,14 +47,14 @@
 </dir>
 
 <dir>
-    <title>Killer Youtube Movies</title>
+    <title>Killer Youtube Movies (Direct Links)</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
     <thumbnail>https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png</thumbnail>
     <summary>Killer Movies streamed from youtube</summary>
 </dir>
 
 <dir>
-    <title>Killer Movies and Shows From My Server</title>
+    <title>Killer Movies and Shows From My Server (Direct Links)</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/myserver.xml</link>
     <thumbnail>https://i.ytimg.com/vi/2IhrxRQiY74/maxresdefault.jpg</thumbnail>
     <summary>Killer Movies and shows streamed from my server</summary>
