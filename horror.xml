@@ -1,4 +1,28 @@
 <item>
+        <title>Angel</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0086896</imdb>
+                <title>Angel</title>
+                <year>1984</year>
+                
+        </meta>
+        <link>
+                <sublink>https://srv57.vidzi.tv/hls2/pfuqjfgcjq2qedz7nk2b7drmjunwq2n5efl4dhlqncwly7j5ytnmxjtabm6a/index-v1-a1.m3u8(HD)</sublink>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        
+        <thumbnail>https://image.tmdb.org/t/p/w640/3O7VwsGQdgqjChRxSZwPjjYND6m.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5m7zi5ndJludQeRAKK6j1FoZVUK.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
         <title>Hangman</title>
         <meta>
                 <content>movie</content>
