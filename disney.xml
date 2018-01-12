@@ -3,7 +3,7 @@
 <title>Disney By Years</title>
 <link></link>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
-
+<summary> Disney Movies By Year</summary>
 </item>
 
 
@@ -11,12 +11,14 @@
 <title>1930-1940</title>
 <tmdb>list/44950</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 30's and 40's</summary>
 </dir>
 
 <dir>
 <title>1950's</title>
 <tmdb>list/44951</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 50's</summary>
 </dir>
 
 
@@ -24,41 +26,48 @@
 <title>1960's</title>
 <tmdb>list/44953</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 60's</summary>
 </dir>
 
 <dir>
 <title>1970's</title>
 <tmdb>list/44955</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 70's</summary>
 </dir>
 
 <dir>
 <title>1980's</title>
 <tmdb>list/44956</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 80's</summary>
 </dir>
 
 <dir>
 <title>1990's</title>
 <tmdb>list/44957</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 90's</summary>
 </dir>
 
 <dir>
 <title>2000's</title>
 <tmdb>list/44958</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 00's</summary>
 </dir>
 
 <dir>
 <title>2010's</title>
 <tmdb>list/44961</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Movies from the 2010's</summary>
 </dir>
 
 <dir>
 <title>Future Releases</title>
 <tmdb>list/44962</tmdb>
 <thumbnail>https://nerdbot.com/wp-content/uploads/2017/11/disney-logo.jpg</thumbnail>
+<summary>Future Releases</summary>
 </dir>
 
