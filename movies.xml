@@ -126,6 +126,13 @@
     <summary>Kids Movie Boxsets</summary>
 </dir>
 
+<dir>
+<name>Killer Disney Movies by Year</name>
+<link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/disney.xml</link>
+<thumbnail>https://pbs.twimg.com/profile_images/736911444206358528/_uJQLJnE.jpg</thumbnail>
+<fanart></fanart>
+</dir>
+
 
 <dir>
     <title>Killer Chick Flicks</title>
