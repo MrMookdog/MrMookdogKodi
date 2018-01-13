@@ -50,6 +50,14 @@
 <summary>A collection of Kids Cartoons</summary>
 </dir>
 
+<plugin>
+<title>Killer Bob Ross Painting Episodes (Requires Youtube)</title>
+<link>plugin://plugin.video.youtube/playlist/PLAEQD0ULngi67rwmhrkNjMZKvyCReqDV4/</link>
+<thumbnail>https://www.biography.com/.image/t_share/MTI1NDg4NTg2MDAxODA1Mjgy/bob-ross-promojpg.jpg</thumbnail>
+<summary> Bob Ross at his best </summary>
+</plugin>
+
+
 
 <dir>
  <title>Pure Serial Killer TV shows (Random Shows)</title>
