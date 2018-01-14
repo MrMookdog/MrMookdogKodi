@@ -3,7 +3,7 @@
 <dir>
     <title>Killer New Releases and Screeners (Direct Links)</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/screeners.xml</link>
-    <thumbnail>http://mookdog.tech/screeners.png</thumbnail>
+    <thumbnail>http://www.terminalserviceplus.com/blog/wp-content/uploads/2017/04/39872730-stamp-new-release-in-red-over-white-background-Stock-Vector.jpg</thumbnail>
     <summary>2017 / 2018 Academy Award Screeners</summary>
 </dir>
 
@@ -13,7 +13,7 @@
 <dir>
   <title>Killer Theater Movies</title>
   <tmdb>movies/now_playing</tmdb>
-  <thumbnail>http://mookdog.tech/Theater.png</thumbnail>
+  <thumbnail>https://greeneyarn.files.wordpress.com/2014/01/logo-theater.gif</thumbnail>
   <summary>Movies now playing in theaters</summary>
 </dir>
 
