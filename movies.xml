@@ -7,6 +7,13 @@
     <summary>2017 / 2018 Academy Award Screeners</summary>
 </dir>
 
+<dir>
+<title>Killer Latest Releases</title>
+<trakt>https://api.trakt.tv/users/giladg/lists/latest-releases/items</trakt>
+<thumbnail>https://sagecity.na.sage.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-05/NewRelease.jpg</thumbnail>
+<summary>Latest Releases</summary>
+</dir>
+
 
 
 
