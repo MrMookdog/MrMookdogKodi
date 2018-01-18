@@ -100,6 +100,12 @@
 <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/2/0/7/1/20716441/20716441,192x192,r:2.jpg</thumbnail>
 </item>
 
+<plugin>
+<name>Search this addon</name>
+<link>plugin://plugin.video.jen/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
+
 
 
 
