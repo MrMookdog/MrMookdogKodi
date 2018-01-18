@@ -102,7 +102,7 @@
 
 <plugin>
 <name>Search this addon</name>
-<link>plugin://plugin.video.jen/?action=search</link>
+<link>plugin://plugin.video.serialkillers/?action=search</link>
 <thumbnail></thumbnail>
 </plugin>
 
