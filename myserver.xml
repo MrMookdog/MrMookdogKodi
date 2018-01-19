@@ -251,33 +251,23 @@
 <summary>In the spring of 1934, throngs of onlookers flocked to two Dallas funeral homes hoping to catch a last glimpse of the famous outlaws Clyde Barrow and Bonnie Parker. For over two years, the country had been transfixed by their illicit romance and a violent crime spree that left a trail of dead bodies in its wake. Though their exploits were romanticized, Bonnie and Clyde and their Barrow Gang were believed responsible for at least 13 murders and numerous robberies and kidnappings. And while they were just small-time criminals compared to more well-known gangsters who were the centerpieces of J. Edgar Hoover's most wanted list, they held the attention of many Americans. In the years since their deaths, dozens of movies, documentaries and television series have been made glamorizing the lives and deaths of Bonnie and Clyde.</summary>
 </item>
 
-
 <item>
-<title>Banned in America</title>
-<link>http://mookdog.tech/Bannedinamerica.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w640/dJEb8GxsPbPwpgAZlieCxlC9C47.jpg</thumbnail>
+<title>Banned in America Movies</title>
+<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>Banned in America Movies</title>
+<year></year>
 <summary>"Banned In America" shows video clips of the darkest elements of human nature, society, and life; the very things that bring fear and disgust into our collective existences. Whether it be live executions, live suicides, or miscellaneous forms of evil, "America" shows us that a sinister world of death lies right outside our door, just waiting for our number to be called</summary>
-</item>
-
-
-<item>
-<title>Banned in America II</title>
-<link>http://mookdog.tech/bannedinamerica2.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w640/ohSIvWBm9ZlgVadp4hosMLDHupV.jpg</thumbnail>
-<summary>This shocking, graphic release from the Banned in America franchise offers a disturbing collection of footage that is most definitely not appropriate for kids. The real, unedited scenes captured for the release include fatal car crashes, brutal acts of extreme, bloody violence, grotesque stunts, and more</summary>
-</item>
-
-
-<item>
-<title>Banned in America III</title>
-<link>http://mookdog.tech/bannedinamerica3.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w640/18aUGjOQrQfmx1hXeykpFxy9e44.jpg</thumbnail>
-<summary>This shocking, graphic release from the Banned in America franchise offers a disturbing collection of footage that is most definitely not appropriate for kids. The real, unedited scenes captured for the release include fatal car crashes, brutal acts of extreme, bloody violence, grotesque stunts, and more</summary>
-</item>
-
-<item>
-<title>Banned in America IV</title>
-<link>http://mookdog.tech/bannedinamericaIV.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/w640/43HzuMQ3c9AXqSIKAUF3k3aYYJD.jpg</thumbnail>
-<summary>BANNED IN AMERICA IV gives you 4 times the action, 4 times the gore of any other shockumentary. We dare to show you the most brutal accidents, the most disturbing crime scenes, the most terrifying footage of ma, animal and machine gone wild. Do you have what it takes to watch?</summary>
+    
+</meta>
+<link>
+<sublink>>http://mookdog.tech/Bannedinamerica.mp4(Banned in America)</sublink>
+<sublink>http://mookdog.tech/bannedinamerica2.mp4(Banned in America II)</sublink>
+<sublink>http://mookdog.tech/bannedinamerica3.mp4(Banned in America III)</sublink>
+<sublink>http://mookdog.tech/bannedinamericaIV.mp4(Banned in America IV)</sublink>
+</link>
+        
+<thumbnail>https://image.tmdb.org/t/p/w640/dJEb8GxsPbPwpgAZlieCxlC9C47.jpg</thumbnail>
+<fanart></fanart>
 </item>
