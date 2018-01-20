@@ -33,10 +33,17 @@
 </item>
 
 <dir>
-    <title>Serial Killer and Crime Documentaries/interviews (Youtube addon required)</title>
+    <title>[COLOR red]Serial Killer and Crime Documentaries/interviews[/COLOR] (Youtube addon required)</title>
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
      <thumbnail>https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png</thumbnail>
     <summary>Various Serial Killer and Crime documentaries streamed from youtube</summary>
+</dir>
+
+<dir>
+    <title>[COLOR red]Serial Killer Movies and Shows[/COLOR] (Direct Links)</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/myserver.xml</link>
+    <thumbnail>http://3.bp.blogspot.com/-sS-k9FtYfYw/VauI70eWCtI/AAAAAAAADH4/ozvA_QkdxWc/s640/1.jpg</thumbnail>
+    <summary>Serial Killer Movies and Shows Direct Links</summary>
 </dir>
 
 <dir>
@@ -51,13 +58,6 @@
     <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
     <thumbnail>https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png</thumbnail>
     <summary>Killer Movies streamed from youtube</summary>
-</dir>
-
-<dir>
-    <title>Killer Movies and Shows From My Server (Direct Links)</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/myserver.xml</link>
-    <thumbnail>https://i.ytimg.com/vi/2IhrxRQiY74/maxresdefault.jpg</thumbnail>
-    <summary>Killer Movies and shows streamed from my server</summary>
 </dir>
 
 
