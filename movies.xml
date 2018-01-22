@@ -1,11 +1,12 @@
 
 
 <dir>
-    <title>Killer Direct Links (Includes Cams and Screeners)</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/screeners.xml</link>
+    <title>Killer New Releases (Direct Links)</title>
+    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/newreleases.xml</link>
     <thumbnail>http://4.bp.blogspot.com/-SOMHD4pnwfE/U48njCQSpYI/AAAAAAAAA2c/9-ews-i1TuI/s1600/url.png</thumbnail>
     <summary>Direct links to the Hottest Movies</summary>
 </dir>
+
 
 <dir>
 <title>Killer Latest Releases</title>
