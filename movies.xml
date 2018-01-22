@@ -45,7 +45,7 @@
 <dir>
       <title>Killer Top Rated Movies</title>
       <tmdb>movies/top_rated</tmdb>
-	  <Thumbnail>http://cosmeticdentistofmichigan.com/wp-content/uploads/2013/03/Top-Rated.jpg</thumbnail>
+	  <thumbnail>http://cosmeticdentistofmichigan.com/wp-content/uploads/2013/03/Top-Rated.jpg</thumbnail>
 	  <summary>Top Rated Movies</summary>
 </dir>
 
@@ -119,7 +119,7 @@
 <dir>
 <title>Killer Black Films</title>
 <trakt>https://api.trakt.tv/users/fluxb0x/lists/black-movies-by-ranker-com/items</trakt>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/zT-RW5tyawY/maxresdefault.jpg</thumbnail>
 <summary>A collection of Various Black Films</summary>
 </dir>
 
