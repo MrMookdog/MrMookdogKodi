@@ -20,6 +20,12 @@
 	  <summary>TV Shows Airing Today</summary>
     </dir>
 
+  <dir>
+<title>Killer Reality TV</title>
+<trakt>https://api.trakt.tv/users/ren3gade/lists/reality-tv-shows/items</trakt>
+<thumbnail>https://gideonsway.files.wordpress.com/2014/06/reality_tv_logo-svg.png?w=1200</thumbnail>
+</dir>
+
 <dir>
 <title>Killer TV Show Genres</title>
 <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/tvgenre.xml</link>
