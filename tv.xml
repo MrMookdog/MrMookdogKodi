@@ -63,6 +63,13 @@
 <summary> Bob Ross at his best </summary>
 </plugin>
 
+<plugin>
+<title>Killer Howard Stern TV</title>
+<link>plugin://plugin.video.youtube/playlist/PLYkoqJZmpN4vjOeOmOsd55BN3R66jwTtK/</link>
+<thumbnail>http://siriusbuzz.com/wp-content/uploads/2007/04/howard-tv.jpg</thumbnail>
+<summary>Howard Stern TV</summary>
+</plugin>
+
 
 
 <dir>
