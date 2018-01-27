@@ -92,9 +92,10 @@
 
 
 <plugin>
-<title>Rare Horror movies from youtube</title>
+<title>Rare Horror Movies From Youtube (Youtube addon required)</title>
 <link>plugin://plugin.video.youtube/playlist/PLSeZ6qt37vqxTrOOedrgCRwWQVe2MMAqR/</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/Rare_logo.png</thumbnail>
+<summary>Rare Horror Movies From Youtube</summary>
 </plugin>
 
 
