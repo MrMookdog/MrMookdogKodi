@@ -155,13 +155,14 @@
 <summary>A collection of Action and Drama Movies</summary>
 </dir>
 
-
 <dir>
-<title>Killer Gangster Movies</title>
-<trakt>https://api.trakt.tv/users/mookdog/lists/killer-gangster-movies/items</trakt>
-<thumbnail>http://mookdog.tech/Gangster.png</thumbnail>
-    <summary>A colllection of Gangster Movies</summary>
-</dir>
+    <title>IMDB TOP 100 Gangster Movies</title>
+    <imdburl>list/ls001818278</imdburl>
+    <thumbnail>http://cdn.appstorm.net/android.appstorm.net/files/2012/03/Top_100_Android_Apps_IMDb_Movies__amp__TV.png</thumbnail>
+    <summary>Top 100 Gangster Movies</summary>
+  </dir>
+
+
 
 <dir>
 <title>Killer Kids Movies</title>
