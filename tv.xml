@@ -70,6 +70,12 @@
 <summary>Howard Stern TV</summary>
 </plugin>
 
+<plugin>
+<title>Killer E True Hollywood Stories</title>
+<link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJEInbcPHgcYjKL2s73_6E9G/</link>
+<thumbnail>http://epguides.com/ETrueHollywoodStory/logo.jpg</thumbnail>
+</plugin>
+
 
 
 <dir>
