@@ -71,9 +71,10 @@
 </plugin>
 
 <plugin>
-<title>Killer E True Hollywood Stories</title>
+<title>Killer E True Hollywood Stories (Requires Youtube Addon)</title>
 <link>plugin://plugin.video.youtube/playlist/PLjFNuSWcwmJEInbcPHgcYjKL2s73_6E9G/</link>
 <thumbnail>http://epguides.com/ETrueHollywoodStory/logo.jpg</thumbnail>
+<summary>E True Hollywood Stories</summary>
 </plugin>
 
 
