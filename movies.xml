@@ -228,6 +228,12 @@
     <summary>Random Serial Killer Movies</summary>
 </dir>
 
+<dir>
+<title>Killer Search Movies (IMDB)</title>
+<imdburl>searchmovies</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
 
 <dir>
   <title>Killer Search (Trakt)</title>
