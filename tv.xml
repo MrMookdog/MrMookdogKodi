@@ -86,26 +86,19 @@
     <summary>Random Serial Killer TV Shows</summary>
 </dir>
 
-<dir>
-<title>Killer Search TV (IMDB)</title>
-<imdburl>searchseries</imdburl>
-<thumbnail></thumbnail>
-</dir>
-
-
 
 
 <dir>
   <title>Killer Search (Trakt)</title>
   <trakt>search</trakt>
-  <thumbnail>http://mookdog.tech/Trakt.png</thumbnail>
+  <thumbnail>http://cdn.windowsreport.com/wp-content/uploads/2016/11/trakt.png</thumbnail>
    <summary>Search for any TV Show</summary>  
 </dir>
 
 <dir>
   <title>Killer Search (tmdb)</title>
   <tmdb>search</tmdb>
-   <thumbnail>http://mookdog.tech/TMDB.png</thumbnail>
+   <thumbnail>http://koditips.com/wp-content/uploads/create-tmdb-api-key-1080x675.png</thumbnail>
     <summary>Search for any Tv Show</summary>
 </dir>
 
