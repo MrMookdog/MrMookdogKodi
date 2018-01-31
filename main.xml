@@ -34,28 +34,28 @@
 
 <dir>
     <title>[COLOR red]Serial Killer and Crime Documentaries/interviews[/COLOR] (Youtube addon required)</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/docs.xml</link>
+    <link>https://mookdog.tech/docs.xml</link>
      <thumbnail>https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png</thumbnail>
     <summary>Various Serial Killer and Crime documentaries streamed from youtube</summary>
 </dir>
 
 <dir>
     <title>[COLOR red]Serial Killer Movies and Shows[/COLOR] (Direct Links)</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/myserver.xml</link>
+    <link>https://mookdog.tech/myserver.xml</link>
     <thumbnail>http://3.bp.blogspot.com/-sS-k9FtYfYw/VauI70eWCtI/AAAAAAAADH4/ozvA_QkdxWc/s640/1.jpg</thumbnail>
     <summary>Serial Killer Movies and Shows Direct Links</summary>
 </dir>
 
 <dir>
     <title>Killer Movies</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/movies.xml</link>
+    <link>https://mookdog.tech/movies.xml</link>
     <thumbnail>http://cultfilmclub.com/wp-content/uploads/2015/01/the_movie_section.jpg</thumbnail>
     <summary>Movie Section</summary>
 </dir>
 
 <dir>
     <title>Killer Youtube Movies (Direct Links)</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/youtube.xml</link>
+    <link>https://mookdog.tech/youtube.xml</link>
     <thumbnail>https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png</thumbnail>
     <summary>Killer Movies streamed from youtube</summary>
 </dir>
@@ -63,14 +63,14 @@
 
 <dir>
     <title>Killer TV Shows</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/tv.xml</link>
+    <link>https://mookdog.tech/tv.xml</link>
     <thumbnail>http://countlessclassics.com/wp-content/uploads/2016/11/Tv-Shows.png</thumbnail>
     <summary>TV Section</summary>
 </dir>
 
 <dir>
 <name>Killer Sports Stuff (Youtube addon required)</name>
-<link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/sports.xml</link>
+<link>https://mookdog.tech/sports.xml</link>
 <thumbnail>http://www.betcoin.ag/files/betcoin/images/12788538_G%5b1%5d.jpg</thumbnail>
 <fanart></fanart>
 <summary>A collection of various Sports shows and movies</summary>
@@ -82,21 +82,21 @@
 
 <dir>
     <title>Serial Killer Podcasts (Updated 2 times a month)</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/serialpod.xml</link>
+    <link>https://mookdog.tech/serialpod.xml</link>
     <thumbnail>https://cdn1.player.fm/images/16658921/series/g8MrDJh1oy46L3Z3/512.jpg</thumbnail>
     <summary>Podcasts about Serial Killers</summary>
 </dir>
 
 <dir>
     <title>Killer Karaoke</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/karaoke.xml</link>
+    <link>https://mookdog.tech/karaoke.xml</link>
     <thumbnail>http://mookdog.tech/karaoke.png</thumbnail>
     <summary>Sing until it kills you</summary>
 </dir>
 
 <dir>
     <title>Killer Music Videos and Audio</title>
-    <link>https://raw.githubusercontent.com/MrMookdog/MrMookdogKodi/master/musicvideos.xml</link>
+    <link>https://mookdog.tech/musicvideos.xml</link>
     <thumbnail>https://i.ytimg.com/vi/J6gZCjsH3gE/hqdefault.jpg</thumbnail>
     <summary>Killer Music Videos from the 60's 70's 80's 90's and 2000's</summary>
 </dir>
